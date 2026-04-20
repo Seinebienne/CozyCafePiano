@@ -11,6 +11,7 @@ Algorithmically composed piano BGM. Free to use with attribution.
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Morning Coffee Jazz Piano ☕ | Peaceful BGM | No Copyright | cafe jazz |   | 82 | [YouTube](https://youtube.com/shorts/mD8DWepraqA) | *(MIDI unavailable)* |
 | Morning Coffee Jazz Piano ☕ | Peaceful BGM | No Copyright | cafe jazz |   | 79 | [YouTube](https://youtube.com/shorts/-wTOBdUCQGA) | *(MIDI unavailable)* |
 | Heartfelt Piano BGM 🎹 | Emotional Relaxation Music | Free | emotional piano |   | 66 | [YouTube](https://youtube.com/shorts/MLGvqXzig_M) | *(MIDI unavailable)* |
 | Autumn Cafe Jazz Piano 🍂 | Cozy BGM for Work | No Copyright | cafe jazz |   | 93 | [YouTube](https://youtube.com/shorts/H9t7yka46dk) | *(MIDI unavailable)* |
