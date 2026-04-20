@@ -11,25 +11,20 @@ Algorithmically composed piano BGM. Free to use with attribution.
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
-| Midnight Piano BGM 🌙 | Emotional Healing Music | No Copyright | emotional piano |   | 67 | [YouTube](https://youtube.com/shorts/B-4QVcu6S5w) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/midnight-piano-bgm-emotional-healing-music-no-copy---67bpm-B-4QVcu6S5w.mid) |
-| Candlelight Jazz Piano 🕯️ | Late Night Cafe BGM | No Copyright | cafe jazz |   | 93 | [YouTube](https://youtube.com/shorts/KrsjtVq0-0o) | *(MIDI unavailable)* |
-| Emotional Piano BGM 🎹 | Healing Music for Study | No Copyright | emotional piano |   | 71 | [YouTube](https://youtube.com/shorts/FLPSaowccqY) | *(MIDI unavailable)* |
-| Soft Jazz Piano for Studying ☕ | Cafe Vibes | Free BGM | cafe jazz |   | 77 | [YouTube](https://youtube.com/shorts/YLmQFCLR_jE) | *(MIDI unavailable)* |
-| Calm Cafe Jazz Piano | Background Music for Work | Free BGM | cafe jazz |   | 93 | [YouTube](https://youtube.com/shorts/DonTrm1ryTk) | *(MIDI unavailable)* |
-| Emotional Piano BGM 🎹 | Healing Music for Study | No Copyright | emotional piano |   | 63 | [YouTube](https://youtube.com/shorts/FzY2gU0HOUI) | *(MIDI unavailable)* |
-| Rainy Cafe Jazz Piano 🌧️ | Relaxing Background Music | Free BGM | cafe jazz |   | 93 | [YouTube](https://youtube.com/shorts/9TKp04Wq7G8) | *(MIDI unavailable)* |
-| Cloudy Day Cafe Jazz 🌥️ | Soft Piano BGM | No Copyright | cafe jazz |   | 92 | [YouTube](https://youtube.com/shorts/Y3-M0q0zzx8) | *(MIDI unavailable)* |
-| Sad & Beautiful Piano BGM 🎹 | Peaceful Study Music | Free | emotional piano |   | 62 | [YouTube](https://youtube.com/shorts/jp0DGb7L3TQ) | *(MIDI unavailable)* |
-| Heartfelt Piano BGM 🎹 | Emotional Relaxation Music | Free | emotional piano |   | 66 | [YouTube](https://youtube.com/shorts/MLGvqXzig_M) | *(MIDI unavailable)* |
-| Autumn Cafe Jazz Piano 🍂 | Cozy BGM for Work | No Copyright | cafe jazz |   | 93 | [YouTube](https://youtube.com/shorts/H9t7yka46dk) | *(MIDI unavailable)* |
-| Warm Jazz Piano BGM ☕ | Focus & Study Music | No Copyright | cafe jazz |   | 83 | [YouTube](https://youtube.com/shorts/UiNbOkcI7F8) | *(MIDI unavailable)* |
-| Morning Coffee Jazz Piano ☕ | Peaceful BGM | No Copyright | cafe jazz |   | 82 | [YouTube](https://youtube.com/shorts/mD8DWepraqA) | *(MIDI unavailable)* |
-| Morning Coffee Jazz Piano ☕ | Peaceful BGM | No Copyright | cafe jazz |   | 79 | [YouTube](https://youtube.com/shorts/-wTOBdUCQGA) | *(MIDI unavailable)* |
-| Heartfelt Piano BGM 🎹 | Emotional Relaxation Music | Free | emotional piano |   | 66 | [YouTube](https://youtube.com/shorts/MLGvqXzig_M) | *(MIDI unavailable)* |
-| Autumn Cafe Jazz Piano 🍂 | Cozy BGM for Work | No Copyright | cafe jazz |   | 93 | [YouTube](https://youtube.com/shorts/H9t7yka46dk) | *(MIDI unavailable)* |
-| Warm Jazz Piano BGM ☕ | Focus & Study Music | No Copyright | cafe jazz |   | 83 | [YouTube](https://youtube.com/shorts/UiNbOkcI7F8) | *(MIDI unavailable)* |
-| Morning Coffee Jazz Piano ☕ | Peaceful BGM | No Copyright | cafe jazz |   | 82 | [YouTube](https://youtube.com/shorts/mD8DWepraqA) | *(MIDI unavailable)* |
-| Morning Coffee Jazz Piano ☕ | Peaceful BGM | No Copyright | cafe jazz |   | 79 | [YouTube](https://youtube.com/shorts/-wTOBdUCQGA) | *(MIDI unavailable)* |
+| Midnight Piano BGM | emotional piano | E minor | 67 | [YouTube](https://youtube.com/shorts/B-4QVcu6S5w) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/midnight-piano-bgm-emotional-healing-music-no-copy---67bpm-B-4QVcu6S5w.mid) |
+| Candlelight Jazz Piano | cafe jazz | C major | 93 | [YouTube](https://youtube.com/shorts/KrsjtVq0-0o) | *(MIDI unavailable)* |
+| Emotional Piano BGM | emotional piano | Eb major | 71 | [YouTube](https://youtube.com/shorts/FLPSaowccqY) | *(MIDI unavailable)* |
+| Soft Jazz Piano for Studying | cafe jazz | Bb major | 77 | [YouTube](https://youtube.com/shorts/YLmQFCLR_jE) | *(MIDI unavailable)* |
+| Calm Cafe Jazz Piano | cafe jazz | G major | 93 | [YouTube](https://youtube.com/shorts/DonTrm1ryTk) | *(MIDI unavailable)* |
+| Emotional Piano BGM | emotional piano | F# minor | 63 | [YouTube](https://youtube.com/shorts/FzY2gU0HOUI) | *(MIDI unavailable)* |
+| Rainy Cafe Jazz Piano | cafe jazz | D minor | 93 | [YouTube](https://youtube.com/shorts/9TKp04Wq7G8) | *(MIDI unavailable)* |
+| Cloudy Day Cafe Jazz | cafe jazz | G major | 92 | [YouTube](https://youtube.com/shorts/Y3-M0q0zzx8) | *(MIDI unavailable)* |
+| Sad & Beautiful Piano BGM | emotional piano | E minor | 62 | [YouTube](https://youtube.com/shorts/jp0DGb7L3TQ) | *(MIDI unavailable)* |
+| Heartfelt Piano BGM | emotional piano | B minor | 66 | [YouTube](https://youtube.com/shorts/MLGvqXzig_M) | *(MIDI unavailable)* |
+| Autumn Cafe Jazz Piano | cafe jazz | D minor | 93 | [YouTube](https://youtube.com/shorts/H9t7yka46dk) | *(MIDI unavailable)* |
+| Warm Jazz Piano BGM | cafe jazz | G minor | 83 | [YouTube](https://youtube.com/shorts/UiNbOkcI7F8) | *(MIDI unavailable)* |
+| Morning Coffee Jazz Piano | cafe jazz | Bb major | 82 | [YouTube](https://youtube.com/shorts/mD8DWepraqA) | *(MIDI unavailable)* |
+| Morning Coffee Jazz Piano | cafe jazz | Bb major | 79 | [YouTube](https://youtube.com/shorts/-wTOBdUCQGA) | *(MIDI unavailable)* |
 
 ---
 
