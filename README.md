@@ -11,6 +11,7 @@ Algorithmically composed piano BGM. Free to use with attribution.
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Emotional Piano BGM 🎹 | Healing Music for Study | No Copyright | emotional piano |   | 71 | [YouTube](https://youtube.com/shorts/FLPSaowccqY) | *(MIDI unavailable)* |
 | Soft Jazz Piano for Studying ☕ | Cafe Vibes | Free BGM | cafe jazz |   | 77 | [YouTube](https://youtube.com/shorts/YLmQFCLR_jE) | *(MIDI unavailable)* |
 | Calm Cafe Jazz Piano | Background Music for Work | Free BGM | cafe jazz |   | 93 | [YouTube](https://youtube.com/shorts/DonTrm1ryTk) | *(MIDI unavailable)* |
 | Emotional Piano BGM 🎹 | Healing Music for Study | No Copyright | emotional piano |   | 63 | [YouTube](https://youtube.com/shorts/FzY2gU0HOUI) | *(MIDI unavailable)* |
