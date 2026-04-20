@@ -11,6 +11,7 @@ Algorithmically composed piano BGM. Free to use with attribution.
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Midnight Piano BGM 🌙 | Emotional Healing Music | No Copyright | emotional piano |   | 67 | [YouTube](https://youtube.com/shorts/B-4QVcu6S5w) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/midnight-piano-bgm-emotional-healing-music-no-copy---67bpm-B-4QVcu6S5w.mid) |
 | Candlelight Jazz Piano 🕯️ | Late Night Cafe BGM | No Copyright | cafe jazz |   | 93 | [YouTube](https://youtube.com/shorts/KrsjtVq0-0o) | *(MIDI unavailable)* |
 | Emotional Piano BGM 🎹 | Healing Music for Study | No Copyright | emotional piano |   | 71 | [YouTube](https://youtube.com/shorts/FLPSaowccqY) | *(MIDI unavailable)* |
 | Soft Jazz Piano for Studying ☕ | Cafe Vibes | Free BGM | cafe jazz |   | 77 | [YouTube](https://youtube.com/shorts/YLmQFCLR_jE) | *(MIDI unavailable)* |
