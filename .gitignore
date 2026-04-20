@@ -1,0 +1,7 @@
+# Only MIDI files and README are tracked
+*
+!.gitignore
+!LICENSE
+!README.md
+!midi/
+!midi/*.mid
