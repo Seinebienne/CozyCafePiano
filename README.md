@@ -9,6 +9,9 @@ Algorithmically composed piano BGM. Free to use with attribution.
 
 ## Tracks
 
+<details>
+<summary>📅 2026년 4월 (14곡)</summary>
+
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
 | Midnight Piano BGM | emotional piano | E minor | 67 | [YouTube](https://youtube.com/shorts/B-4QVcu6S5w) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/midnight-piano-bgm-emotional-healing-music-no-copy---67bpm-B-4QVcu6S5w.mid) |
@@ -25,6 +28,8 @@ Algorithmically composed piano BGM. Free to use with attribution.
 | Warm Jazz Piano BGM | cafe jazz | G minor | 83 | [YouTube](https://youtube.com/shorts/UiNbOkcI7F8) | *(MIDI unavailable)* |
 | Morning Coffee Jazz Piano | cafe jazz | Bb major | 82 | [YouTube](https://youtube.com/shorts/mD8DWepraqA) | *(MIDI unavailable)* |
 | Morning Coffee Jazz Piano | cafe jazz | Bb major | 79 | [YouTube](https://youtube.com/shorts/-wTOBdUCQGA) | *(MIDI unavailable)* |
+
+</details>
 
 ---
 
