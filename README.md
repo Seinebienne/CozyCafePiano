@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 4월 (19곡)</summary>
+<summary>📅 2026년 4월 (20곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Sad & Beautiful Piano BGM | emotional piano | A minor | 70 | [YouTube](https://youtube.com/shorts/dH_OhXLdJnU) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/sad--beautiful-piano-bgm-a-minor-70bpm-dH_OhXLdJnU.mid) |
 | Jazz Piano at the Window | cafe jazz | C major | 86 | [YouTube](https://youtube.com/shorts/bs8oehsJaYs) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/jazz-piano-at-the-window-c-major-86bpm-bs8oehsJaYs.mid) |
 | Midnight Jazz Piano | cafe jazz | E minor | 80 | [YouTube](https://youtube.com/shorts/4JkDaXx5PZA) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/midnight-jazz-piano-e-minor-80bpm-4JkDaXx5PZA.mid) |
 | Calm Cafe Jazz Piano | cafe jazz | D minor | 79 | [YouTube](https://youtube.com/shorts/9-NBrq4WDUo) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/calm-cafe-jazz-piano-d-minor-79bpm-9-NBrq4WDUo.mid) |
