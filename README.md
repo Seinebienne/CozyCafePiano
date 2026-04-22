@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 4월 (17곡)</summary>
+<summary>📅 2026년 4월 (18곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Midnight Jazz Piano | cafe jazz | E minor | 80 | [YouTube](https://youtube.com/shorts/4JkDaXx5PZA) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/midnight-jazz-piano-e-minor-80bpm-4JkDaXx5PZA.mid) |
 | Calm Cafe Jazz Piano | cafe jazz | D minor | 79 | [YouTube](https://youtube.com/shorts/9-NBrq4WDUo) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/calm-cafe-jazz-piano-d-minor-79bpm-9-NBrq4WDUo.mid) |
 | Mellow Jazz Piano BGM | cafe jazz | C major | 86 | [YouTube](https://youtube.com/shorts/soExR6aLfLQ) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/mellow-jazz-piano-bgm-c-major-86bpm-soExR6aLfLQ.mid) |
 | Gentle Emotional Piano | emotional piano | F# minor | 68 | [YouTube](https://youtube.com/shorts/HsIhtdgjKU8) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/gentle-emotional-piano-f#-minor-68bpm-HsIhtdgjKU8.mid) |
