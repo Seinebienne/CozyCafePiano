@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 4월 (22곡)</summary>
+<summary>📅 2026년 4월 (23곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Melancholic Piano BGM | emotional piano | A minor | 64 | [YouTube](https://youtube.com/shorts/uwaLyZ6iuJI) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/melancholic-piano-bgm-a-minor-64bpm-uwaLyZ6iuJI.mid) |
 | Beautiful Emotional Piano BGM | emotional piano | B minor | 68 | [YouTube](https://youtube.com/shorts/v_lqnpuLixw) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/beautiful-emotional-piano-bgm-b-minor-68bpm-v_lqnpuLixw.mid) |
 | Warm Piano Jazz | cafe jazz | F# minor | 95 | [YouTube](https://youtube.com/shorts/tmotbk-CRMU) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/warm-piano-jazz-f#-minor-95bpm-tmotbk-CRMU.mid) |
 | Sad & Beautiful Piano BGM | emotional piano | A minor | 70 | [YouTube](https://youtube.com/shorts/dH_OhXLdJnU) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/sad--beautiful-piano-bgm-a-minor-70bpm-dH_OhXLdJnU.mid) |
