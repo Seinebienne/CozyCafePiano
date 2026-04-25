@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 4월 (26곡)</summary>
+<summary>📅 2026년 4월 (27곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Midnight Jazz Piano | cafe jazz | G minor | 77 | [YouTube](https://youtube.com/shorts/glPZN4PYi1U) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/midnight-jazz-piano-g-minor-77bpm-glPZN4PYi1U.mid) |
 | Emotional Piano BGM | emotional piano | D minor | 71 | [YouTube](https://youtube.com/shorts/aS5oBjTJco0) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/emotional-piano-bgm-d-minor-71bpm-aS5oBjTJco0.mid) |
 | Cloudy Day Cafe Jazz | cafe jazz | A minor | 80 | [YouTube](https://youtube.com/shorts/WxL_5q1mkNo) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/cloudy-day-cafe-jazz-a-minor-80bpm-WxL_5q1mkNo.mid) |
 | Autumn Cafe Jazz Piano | cafe jazz | B minor | 95 | [YouTube](https://youtube.com/shorts/h3cI8TJk3qw) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/autumn-cafe-jazz-piano-b-minor-95bpm-h3cI8TJk3qw.mid) |
