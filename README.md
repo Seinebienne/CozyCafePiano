@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 4월 (29곡)</summary>
+<summary>📅 2026년 4월 (30곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Sunday Morning Jazz Piano | cafe jazz | D minor | 76 | [YouTube](https://youtube.com/shorts/INp2MFI-9yY) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/sunday-morning-jazz-piano-d-minor-76bpm-INp2MFI-9yY.mid) |
 | Dreamy Piano BGM | emotional piano | C major | 67 | [YouTube](https://youtube.com/shorts/ngiY0RLsg1o) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/dreamy-piano-bgm-c-major-67bpm-ngiY0RLsg1o.mid) |
 | Peaceful Piano Melody | emotional piano | F# minor | 58 | [YouTube](https://youtube.com/shorts/7kxUDyKzz24) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/peaceful-piano-melody-f#-minor-58bpm-7kxUDyKzz24.mid) |
 | Midnight Jazz Piano | cafe jazz | G minor | 77 | [YouTube](https://youtube.com/shorts/glPZN4PYi1U) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/midnight-jazz-piano-g-minor-77bpm-glPZN4PYi1U.mid) |
