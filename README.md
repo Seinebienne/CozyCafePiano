@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 4월 (35곡)</summary>
+<summary>📅 2026년 4월 (36곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| 5-Min Shining Piano BGM | longform |   |  | [YouTube](https://youtube.com/shorts/5k1_LyOowSM) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/5-min-shining-piano-bgm---bpm-5k1_LyOowSM.mid) |
 | Jazz Piano Loop | cafe jazz | C major | 83 | [YouTube](https://youtube.com/shorts/hcXCth3THT8) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/jazz-piano-loop-c-major-83bpm-hcXCth3THT8.mid) |
 | Peaceful Piano Melody | emotional piano | G major | 62 | [YouTube](https://youtube.com/shorts/8ryshG7JnVs) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/peaceful-piano-melody-g-major-62bpm-8ryshG7JnVs.mid) |
 | Misty Morning Piano | emotional piano | E minor | 60 | [YouTube](https://youtube.com/shorts/0Lnspr3HfQk) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/misty-morning-piano-e-minor-60bpm-0Lnspr3HfQk.mid) |
