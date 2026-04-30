@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 4월 (42곡)</summary>
+<summary>📅 2026년 4월 (43곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Chill Jazz Piano BGM | cafe jazz | F# minor | 94 | [YouTube](https://youtube.com/shorts/30vlDLMgUKg) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/chill-jazz-piano-bgm-f#-minor-94bpm-30vlDLMgUKg.mid) |
 | Gentle Emotional Piano | emotional piano | A major | 62 | [YouTube](https://youtube.com/shorts/EKF2bsnLAs0) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/gentle-emotional-piano-a-major-62bpm-EKF2bsnLAs0.mid) |
 | 5-Min Late Night Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/WdqItn2Sakc) | *(MIDI unavailable)* |
 | Calm Piano for Studying | emotional piano | G minor | 65 | [YouTube](https://youtube.com/shorts/b1zMiAV_PNA) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/calm-piano-for-studying-g-minor-65bpm-b1zMiAV_PNA.mid) |
