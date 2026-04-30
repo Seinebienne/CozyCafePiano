@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 4월 (44곡)</summary>
+<summary>📅 2026년 4월 (45곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Quiet Rainy Day Piano | emotional piano | C major | 70 | [YouTube](https://youtube.com/shorts/c3-Lk-GY6_E) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/quiet-rainy-day-piano-c-major-70bpm-c3-Lk-GY6_E.mid) |
 | Coffee & Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/SX27Bzvlf88) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/coffee--jazz-piano---bpm-SX27Bzvlf88.mid) |
 | Chill Jazz Piano BGM | cafe jazz | F# minor | 94 | [YouTube](https://youtube.com/shorts/30vlDLMgUKg) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/chill-jazz-piano-bgm-f#-minor-94bpm-30vlDLMgUKg.mid) |
 | Gentle Emotional Piano | emotional piano | A major | 62 | [YouTube](https://youtube.com/shorts/EKF2bsnLAs0) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/gentle-emotional-piano-a-major-62bpm-EKF2bsnLAs0.mid) |
