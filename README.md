@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 5월 (3곡)</summary>
+<summary>📅 2026년 5월 (4곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Calm Piano for Studying | emotional piano | G minor | 65 | [YouTube](https://youtube.com/shorts/p3ma8i6Rgu0) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/calm-piano-for-studying-g-minor-65bpm-p3ma8i6Rgu0.mid) |
 | Sad & Beautiful Piano BGM | emotional piano | F# minor | 66 | [YouTube](https://youtube.com/shorts/w05PXBWXytw) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/sad--beautiful-piano-bgm-f#-minor-66bpm-w05PXBWXytw.mid) |
 | Lazy Sunday Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/OvWRBAmqTJw) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/lazy-sunday-jazz-piano---bpm-OvWRBAmqTJw.mid) |
 | Morning Coffee Jazz Piano | cafe jazz | B minor | 78 | [YouTube](https://youtube.com/shorts/2bgnbSSCNug) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/morning-coffee-jazz-piano-b-minor-78bpm-2bgnbSSCNug.mid) |
