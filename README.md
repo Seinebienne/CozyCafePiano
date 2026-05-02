@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 5월 (6곡)</summary>
+<summary>📅 2026년 5월 (7곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Bittersweet Piano BGM | emotional piano | F major | 72 | [YouTube](https://youtube.com/shorts/D2Pp_nFXM-Q) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/bittersweet-piano-bgm-f-major-72bpm-D2Pp_nFXM-Q.mid) |
 | Calm Cafe Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/ZwPzXC2WHIQ) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/calm-cafe-jazz-piano---bpm-ZwPzXC2WHIQ.mid) |
 | Vintage Jazz Piano Vibes | cafe jazz | G minor | 86 | [YouTube](https://youtube.com/shorts/XcHdO9nwxkw) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/vintage-jazz-piano-vibes-g-minor-86bpm-XcHdO9nwxkw.mid) |
 | Calm Piano for Studying | emotional piano | G minor | 65 | [YouTube](https://youtube.com/shorts/p3ma8i6Rgu0) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/calm-piano-for-studying-g-minor-65bpm-p3ma8i6Rgu0.mid) |
