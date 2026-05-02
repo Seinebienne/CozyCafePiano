@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 5월 (7곡)</summary>
+<summary>📅 2026년 5월 (8곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Tender Piano BGM | emotional piano | E major | 62 | [YouTube](https://youtube.com/shorts/XVruo2bDa6U) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/tender-piano-bgm-e-major-62bpm-XVruo2bDa6U.mid) |
 | Bittersweet Piano BGM | emotional piano | F major | 72 | [YouTube](https://youtube.com/shorts/D2Pp_nFXM-Q) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/bittersweet-piano-bgm-f-major-72bpm-D2Pp_nFXM-Q.mid) |
 | Calm Cafe Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/ZwPzXC2WHIQ) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/calm-cafe-jazz-piano---bpm-ZwPzXC2WHIQ.mid) |
 | Vintage Jazz Piano Vibes | cafe jazz | G minor | 86 | [YouTube](https://youtube.com/shorts/XcHdO9nwxkw) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/vintage-jazz-piano-vibes-g-minor-86bpm-XcHdO9nwxkw.mid) |
