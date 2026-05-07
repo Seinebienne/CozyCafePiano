@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 5월 (24곡)</summary>
+<summary>📅 2026년 5월 (25곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Gentle Swing Piano BGM | cafe jazz | C major | 78 | [YouTube](https://youtube.com/shorts/A_8FwMfb5DE) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/gentle-swing-piano-bgm-c-major-78bpm-A_8FwMfb5DE.mid) |
 | Ethereal Piano Melody | emotional piano | G major | 96 | [YouTube](https://youtube.com/shorts/7kI_Itz933c) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/ethereal-piano-melody-g-major-96bpm-7kI_Itz933c.mid) |
 | Heartfelt Piano BGM | emotional piano | A minor | 66 | [YouTube](https://youtube.com/shorts/2rISocx87xs) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/heartfelt-piano-bgm-a-minor-66bpm-2rISocx87xs.mid) |
 | Jazz Piano at the Window | longform emotional |   |  | [YouTube](https://youtube.com/shorts/wn0aUP6tbaM) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/jazz-piano-at-the-window---bpm-wn0aUP6tbaM.mid) |
