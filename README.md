@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 5월 (31곡)</summary>
+<summary>📅 2026년 5월 (32곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Emotional Piano BGM | emotional piano | D major | 67 | [YouTube](https://youtube.com/shorts/W6WwrsvlDdQ) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/emotional-piano-bgm-d-major-67bpm-W6WwrsvlDdQ.mid) |
 | Calm Piano for Studying | emotional piano | B minor | 69 | [YouTube](https://youtube.com/shorts/4V9QyGZhl6c) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/calm-piano-for-studying-b-minor-69bpm-4V9QyGZhl6c.mid) |
 | Rainy Cafe Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/NdoArVbAIMs) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/rainy-cafe-jazz-piano---bpm-NdoArVbAIMs.mid) |
 | Jazz Piano at the Window | cafe jazz | C major | 89 | [YouTube](https://youtube.com/shorts/OeUakD4iDzs) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/jazz-piano-at-the-window-c-major-89bpm-OeUakD4iDzs.mid) |
