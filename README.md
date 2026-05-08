@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 5월 (28곡)</summary>
+<summary>📅 2026년 5월 (29곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Jazz Piano at the Window | cafe jazz | C major | 89 | [YouTube](https://youtube.com/shorts/OeUakD4iDzs) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/jazz-piano-at-the-window-c-major-89bpm-OeUakD4iDzs.mid) |
 | Heartfelt Piano BGM | emotional piano | E major | 62 | [YouTube](https://youtube.com/shorts/njhln3orfuI) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/heartfelt-piano-bgm-e-major-62bpm-njhln3orfuI.mid) |
 | Heartfelt Piano BGM | emotional piano | G major | 60 | [YouTube](https://youtube.com/shorts/cpGP5VYodtU) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/heartfelt-piano-bgm-g-major-60bpm-cpGP5VYodtU.mid) |
 | Warm Piano Jazz | longform emotional |   |  | [YouTube](https://youtube.com/shorts/umlFNmcB3ZY) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/warm-piano-jazz---bpm-umlFNmcB3ZY.mid) |
