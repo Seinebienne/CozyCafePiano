@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 5월 (38곡)</summary>
+<summary>📅 2026년 5월 (39곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Bittersweet Piano BGM | emotional piano | E minor | 58 | [YouTube](https://youtube.com/shorts/ZRAT1KoK7Nk) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/bittersweet-piano-bgm-e-minor-58bpm-ZRAT1KoK7Nk.mid) |
 | Soft Jazz Piano for Studying | longform emotional |   |  | [YouTube](https://youtube.com/shorts/_VKk-pTcRGQ) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/soft-jazz-piano-for-studying---bpm-_VKk-pTcRGQ.mid) |
 | Gentle Swing Piano BGM | cafe jazz | G minor | 85 | [YouTube](https://youtube.com/shorts/HLy8K8MdN-4) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/gentle-swing-piano-bgm-g-minor-85bpm-HLy8K8MdN-4.mid) |
 | Midnight Piano BGM | emotional piano | G minor | 61 | [YouTube](https://youtube.com/shorts/ncbJRGXG6HM) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/midnight-piano-bgm-g-minor-61bpm-ncbJRGXG6HM.mid) |
