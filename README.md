@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 5월 (41곡)</summary>
+<summary>📅 2026년 5월 (42곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Cool Jazz Piano BGM | longform emotional |   |  | [YouTube](https://youtube.com/shorts/NhLItsHqfZk) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/cool-jazz-piano-bgm---bpm-NhLItsHqfZk.mid) |
 | Jazz Piano at the Window | cafe jazz | F# minor | 94 | [YouTube](https://youtube.com/shorts/V5zcc1WY3G4) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/jazz-piano-at-the-window-f#-minor-94bpm-V5zcc1WY3G4.mid) |
 | Midnight Piano BGM | emotional piano | G minor | 67 | [YouTube](https://youtube.com/shorts/Xi11eotMndA) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/midnight-piano-bgm-g-minor-67bpm-Xi11eotMndA.mid) |
 | Bittersweet Piano BGM | emotional piano | E minor | 58 | [YouTube](https://youtube.com/shorts/ZRAT1KoK7Nk) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/bittersweet-piano-bgm-e-minor-58bpm-ZRAT1KoK7Nk.mid) |
