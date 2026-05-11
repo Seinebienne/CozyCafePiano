@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 5월 (43곡)</summary>
+<summary>📅 2026년 5월 (44곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Emotional Piano BGM | emotional piano | C major | 69 | [YouTube](https://youtube.com/shorts/J62xGwvj5SU) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/emotional-piano-bgm-c-major-69bpm-J62xGwvj5SU.mid) |
 | Melancholic Piano BGM | emotional piano | D minor | 62 | [YouTube](https://youtube.com/shorts/d6mtJP34QSk) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/melancholic-piano-bgm-d-minor-62bpm-d6mtJP34QSk.mid) |
 | Cool Jazz Piano BGM | longform emotional |   |  | [YouTube](https://youtube.com/shorts/NhLItsHqfZk) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/cool-jazz-piano-bgm---bpm-NhLItsHqfZk.mid) |
 | Jazz Piano at the Window | cafe jazz | F# minor | 94 | [YouTube](https://youtube.com/shorts/V5zcc1WY3G4) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/jazz-piano-at-the-window-f#-minor-94bpm-V5zcc1WY3G4.mid) |
