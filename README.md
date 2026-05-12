@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 5월 (46곡)</summary>
+<summary>📅 2026년 5월 (47곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Dreamy Piano BGM | emotional piano | D minor | 67 | [YouTube](https://youtube.com/shorts/y5zyH0VJMbA) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/dreamy-piano-bgm-d-minor-67bpm-y5zyH0VJMbA.mid) |
 | Rainy Cafe Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/xU7DD9O3KnY) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/rainy-cafe-jazz-piano---bpm-xU7DD9O3KnY.mid) |
 | Bossa Nova Cafe Piano | cafe jazz | B minor | 84 | [YouTube](https://youtube.com/shorts/FoaJdN2RHKs) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/bossa-nova-cafe-piano-b-minor-84bpm-FoaJdN2RHKs.mid) |
 | Emotional Piano BGM | emotional piano | C major | 69 | [YouTube](https://youtube.com/shorts/J62xGwvj5SU) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/emotional-piano-bgm-c-major-69bpm-J62xGwvj5SU.mid) |
