@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 5월 (51곡)</summary>
+<summary>📅 2026년 5월 (52곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Heartfelt Piano BGM | emotional piano | F major | 66 | [YouTube](https://youtube.com/shorts/eTg1bIEbF74) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/heartfelt-piano-bgm-f-major-66bpm-eTg1bIEbF74.mid) |
 | Dreamy Piano BGM | emotional piano | F# minor | 66 | [YouTube](https://youtube.com/shorts/EA6yI8M0nn0) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/dreamy-piano-bgm-f#-minor-66bpm-EA6yI8M0nn0.mid) |
 | Rainy Cafe Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/zFs98gvg0hY) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/rainy-cafe-jazz-piano---bpm-zFs98gvg0hY.mid) |
 | Soft Jazz Piano for Studying | cafe jazz | C major | 82 | [YouTube](https://youtube.com/shorts/VSCjifdaCu4) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/soft-jazz-piano-for-studying-c-major-82bpm-VSCjifdaCu4.mid) |
