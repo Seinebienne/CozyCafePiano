@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 5월 (48곡)</summary>
+<summary>📅 2026년 5월 (49곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Soft Jazz Piano for Studying | cafe jazz | C major | 82 | [YouTube](https://youtube.com/shorts/VSCjifdaCu4) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/soft-jazz-piano-for-studying-c-major-82bpm-VSCjifdaCu4.mid) |
 | Introspective Piano | emotional piano | F# minor | 64 | [YouTube](https://youtube.com/shorts/IlSOhzW-K4E) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/introspective-piano-f#-minor-64bpm-IlSOhzW-K4E.mid) |
 | Dreamy Piano BGM | emotional piano | D minor | 67 | [YouTube](https://youtube.com/shorts/y5zyH0VJMbA) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/dreamy-piano-bgm-d-minor-67bpm-y5zyH0VJMbA.mid) |
 | Rainy Cafe Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/xU7DD9O3KnY) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/rainy-cafe-jazz-piano---bpm-xU7DD9O3KnY.mid) |
