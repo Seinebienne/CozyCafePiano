@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 5월 (55곡)</summary>
+<summary>📅 2026년 5월 (56곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Calm Piano for Studying | emotional piano | G minor | 58 | [YouTube](https://youtube.com/shorts/n-22EmAeCYw) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/calm-piano-for-studying-g-minor-58bpm-n-22EmAeCYw.mid) |
 | Calm Piano for Studying | emotional piano | F# minor | 60 | [YouTube](https://youtube.com/shorts/P2w7pUxZcjI) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/calm-piano-for-studying-f#-minor-60bpm-P2w7pUxZcjI.mid) |
 | Cloudy Day Cafe Jazz | longform emotional |   |  | [YouTube](https://youtube.com/shorts/DDUYYMYMa1s) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/cloudy-day-cafe-jazz---bpm-DDUYYMYMa1s.mid) |
 | Morning Coffee Jazz Piano | cafe jazz | B minor | 92 | [YouTube](https://youtube.com/shorts/WgdbzUL_SPY) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/morning-coffee-jazz-piano-b-minor-92bpm-WgdbzUL_SPY.mid) |
