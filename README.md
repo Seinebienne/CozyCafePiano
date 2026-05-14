@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 5월 (52곡)</summary>
+<summary>📅 2026년 5월 (53곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Morning Coffee Jazz Piano | cafe jazz | B minor | 92 | [YouTube](https://youtube.com/shorts/WgdbzUL_SPY) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/morning-coffee-jazz-piano-b-minor-92bpm-WgdbzUL_SPY.mid) |
 | Heartfelt Piano BGM | emotional piano | F major | 66 | [YouTube](https://youtube.com/shorts/eTg1bIEbF74) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/heartfelt-piano-bgm-f-major-66bpm-eTg1bIEbF74.mid) |
 | Dreamy Piano BGM | emotional piano | F# minor | 66 | [YouTube](https://youtube.com/shorts/EA6yI8M0nn0) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/dreamy-piano-bgm-f#-minor-66bpm-EA6yI8M0nn0.mid) |
 | Rainy Cafe Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/zFs98gvg0hY) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/rainy-cafe-jazz-piano---bpm-zFs98gvg0hY.mid) |
