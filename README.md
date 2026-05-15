@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 5월 (58곡)</summary>
+<summary>📅 2026년 5월 (59곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Midnight Piano BGM | emotional piano | A major | 71 | [YouTube](https://youtube.com/shorts/L7-lImh622g) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/midnight-piano-bgm-a-major-71bpm-L7-lImh622g.mid) |
 | Rainy Cafe Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/Dpwv0pwtzjM) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/rainy-cafe-jazz-piano---bpm-Dpwv0pwtzjM.mid) |
 | Smooth Jazz Piano Cafe | cafe jazz | F# minor | 77 | [YouTube](https://youtube.com/shorts/dAu2jxEam8Q) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/smooth-jazz-piano-cafe-f#-minor-77bpm-dAu2jxEam8Q.mid) |
 | Calm Piano for Studying | emotional piano | G minor | 58 | [YouTube](https://youtube.com/shorts/n-22EmAeCYw) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/calm-piano-for-studying-g-minor-58bpm-n-22EmAeCYw.mid) |
