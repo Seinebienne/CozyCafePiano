@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 5월 (75곡)</summary>
+<summary>📅 2026년 5월 (76곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Melancholic Piano BGM | emotional piano | E major | 66 | [YouTube](https://youtube.com/shorts/NeWaq8MTvkg) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/melancholic-piano-bgm-e-major-66bpm-NeWaq8MTvkg.mid) |
 | Heartfelt Piano BGM | emotional piano | F major | 66 | [YouTube](https://youtube.com/shorts/QJAacyecbwU) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/heartfelt-piano-bgm-f-major-66bpm-QJAacyecbwU.mid) |
 | Autumn Cafe Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/SENwRXI5k3A) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/autumn-cafe-jazz-piano---bpm-SENwRXI5k3A.mid) |
 | Late Night Cafe Jazz | cafe jazz | G minor | 75 | [YouTube](https://youtube.com/shorts/8zB0KYKDuRY) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/late-night-cafe-jazz-g-minor-75bpm-8zB0KYKDuRY.mid) |
