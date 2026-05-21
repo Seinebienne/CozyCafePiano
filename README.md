@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 5월 (81곡)</summary>
+<summary>📅 2026년 5월 (82곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Rainy Window Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/-z30KUnODm0) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/rainy-window-jazz-piano---bpm--z30KUnODm0.mid) |
 | Candlelight Jazz Piano | cafe jazz | G minor | 81 | [YouTube](https://youtube.com/shorts/gB_d9tIDqXU) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/candlelight-jazz-piano-g-minor-81bpm-gB_d9tIDqXU.mid) |
 | Late Night Piano BGM | emotional piano | D minor | 61 | [YouTube](https://youtube.com/shorts/ZdTu8ZcpeVI) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/late-night-piano-bgm-d-minor-61bpm-ZdTu8ZcpeVI.mid) |
 | Midnight Piano BGM | emotional piano | C minor | 60 | [YouTube](https://youtube.com/shorts/eTgPx6x0iqQ) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/midnight-piano-bgm-c-minor-60bpm-eTgPx6x0iqQ.mid) |
