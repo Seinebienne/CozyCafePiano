@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 5월 (84곡)</summary>
+<summary>📅 2026년 5월 (85곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Sunday Morning Jazz Piano | cafe jazz | D minor | 94 | [YouTube](https://youtube.com/shorts/zrm8q0yCSOM) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/sunday-morning-jazz-piano-d-minor-94bpm-zrm8q0yCSOM.mid) |
 | Calm Piano for Studying | emotional piano | D minor | 95 | [YouTube](https://youtube.com/shorts/kgyJ0KNX2O4) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/calm-piano-for-studying-d-minor-95bpm-kgyJ0KNX2O4.mid) |
 | Beautiful Emotional Piano BGM | emotional piano | G major | 64 | [YouTube](https://youtube.com/shorts/HS5zGoUTIhg) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/beautiful-emotional-piano-bgm-g-major-64bpm-HS5zGoUTIhg.mid) |
 | Rainy Window Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/-z30KUnODm0) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/rainy-window-jazz-piano---bpm--z30KUnODm0.mid) |
