@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 5월 (87곡)</summary>
+<summary>📅 2026년 5월 (88곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Misty Morning Piano | emotional piano | D minor | 65 | [YouTube](https://youtube.com/shorts/rxz9WUUCfHg) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/misty-morning-piano-d-minor-65bpm-rxz9WUUCfHg.mid) |
 | Sad & Beautiful Piano BGM | emotional piano | C minor | 69 | [YouTube](https://youtube.com/shorts/s16ocv1Pj0w) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/sad--beautiful-piano-bgm-c-minor-69bpm-s16ocv1Pj0w.mid) |
 | Cozy Coffee Shop Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/zqq71j7Q6To) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/cozy-coffee-shop-jazz-piano---bpm-zqq71j7Q6To.mid) |
 | Sunday Morning Jazz Piano | cafe jazz | D minor | 94 | [YouTube](https://youtube.com/shorts/zrm8q0yCSOM) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/sunday-morning-jazz-piano-d-minor-94bpm-zrm8q0yCSOM.mid) |
