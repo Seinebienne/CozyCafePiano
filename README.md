@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 5월 (95곡)</summary>
+<summary>📅 2026년 5월 (96곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Emotional Piano BGM | emotional piano | E minor | 66 | [YouTube](https://youtube.com/shorts/BovFKkrT6W4) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/emotional-piano-bgm-e-minor-66bpm-BovFKkrT6W4.mid) |
 | Calm Piano for Studying | emotional piano | E minor | 66 | [YouTube](https://youtube.com/shorts/B3-O57nBQf8) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/calm-piano-for-studying-e-minor-66bpm-B3-O57nBQf8.mid) |
 | Gentle Swing Piano BGM | longform emotional |   |  | [YouTube](https://youtube.com/shorts/VB4QEmH5xFU) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/gentle-swing-piano-bgm---bpm-VB4QEmH5xFU.mid) |
 | Mellow Jazz Piano BGM | cafe jazz | B minor | 83 | [YouTube](https://youtube.com/shorts/VPoj87hKIpk) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/mellow-jazz-piano-bgm-b-minor-83bpm-VPoj87hKIpk.mid) |
