@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 5월 (94곡)</summary>
+<summary>📅 2026년 5월 (95곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Calm Piano for Studying | emotional piano | E minor | 66 | [YouTube](https://youtube.com/shorts/B3-O57nBQf8) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/calm-piano-for-studying-e-minor-66bpm-B3-O57nBQf8.mid) |
 | Gentle Swing Piano BGM | longform emotional |   |  | [YouTube](https://youtube.com/shorts/VB4QEmH5xFU) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/gentle-swing-piano-bgm---bpm-VB4QEmH5xFU.mid) |
 | Mellow Jazz Piano BGM | cafe jazz | B minor | 83 | [YouTube](https://youtube.com/shorts/VPoj87hKIpk) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/mellow-jazz-piano-bgm-b-minor-83bpm-VPoj87hKIpk.mid) |
 | Gentle Emotional Piano | emotional piano | A major | 72 | [YouTube](https://youtube.com/shorts/XmYtU-zoimo) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/gentle-emotional-piano-a-major-72bpm-XmYtU-zoimo.mid) |
