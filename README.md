@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 5월 (98곡)</summary>
+<summary>📅 2026년 5월 (99곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Longing Piano BGM | emotional piano | A major | 71 | [YouTube](https://youtube.com/shorts/F7OhEwDgf2k) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/longing-piano-bgm-a-major-71bpm-F7OhEwDgf2k.mid) |
 | Evening Cafe Jazz | longform emotional |   |  | [YouTube](https://youtube.com/shorts/PpRhJW7c284) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/evening-cafe-jazz---bpm-PpRhJW7c284.mid) |
 | Soft Jazz Piano for Studying | cafe jazz | E minor | 79 | [YouTube](https://youtube.com/shorts/__GATM8c1PY) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/soft-jazz-piano-for-studying-e-minor-79bpm-__GATM8c1PY.mid) |
 | Emotional Piano BGM | emotional piano | E minor | 66 | [YouTube](https://youtube.com/shorts/BovFKkrT6W4) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/emotional-piano-bgm-e-minor-66bpm-BovFKkrT6W4.mid) |
