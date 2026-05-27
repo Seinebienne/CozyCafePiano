@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 5월 (107곡)</summary>
+<summary>📅 2026년 5월 (108곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Tender Piano BGM | emotional piano | G minor | 69 | [YouTube](https://youtube.com/shorts/nIwOyUx7ebg) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/tender-piano-bgm-g-minor-69bpm-nIwOyUx7ebg.mid) |
 | Ethereal Piano Melody | emotional piano | A major | 58 | [YouTube](https://youtube.com/shorts/NELqkGBldns) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/ethereal-piano-melody-a-major-58bpm-NELqkGBldns.mid) |
 | Smooth Jazz Piano Cafe | longform emotional |   |  | [YouTube](https://youtube.com/shorts/KDM74iW72z4) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/smooth-jazz-piano-cafe---bpm-KDM74iW72z4.mid) |
 | Chill Jazz Piano BGM | cafe jazz | B minor | 79 | [YouTube](https://youtube.com/shorts/DPA_2gOHInU) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/chill-jazz-piano-bgm-b-minor-79bpm-DPA_2gOHInU.mid) |
