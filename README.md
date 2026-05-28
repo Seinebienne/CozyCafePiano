@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 5월 (108곡)</summary>
+<summary>📅 2026년 5월 (109곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Vintage Jazz Piano Vibes | cafe jazz | B minor | 81 | [YouTube](https://youtube.com/shorts/JFjeWC9hXR8) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/vintage-jazz-piano-vibes-b-minor-81bpm-JFjeWC9hXR8.mid) |
 | Tender Piano BGM | emotional piano | G minor | 69 | [YouTube](https://youtube.com/shorts/nIwOyUx7ebg) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/tender-piano-bgm-g-minor-69bpm-nIwOyUx7ebg.mid) |
 | Ethereal Piano Melody | emotional piano | A major | 58 | [YouTube](https://youtube.com/shorts/NELqkGBldns) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/ethereal-piano-melody-a-major-58bpm-NELqkGBldns.mid) |
 | Smooth Jazz Piano Cafe | longform emotional |   |  | [YouTube](https://youtube.com/shorts/KDM74iW72z4) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/smooth-jazz-piano-cafe---bpm-KDM74iW72z4.mid) |
