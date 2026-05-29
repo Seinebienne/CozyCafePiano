@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 5월 (112곡)</summary>
+<summary>📅 2026년 5월 (113곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Autumn Cafe Jazz Piano | cafe jazz | G minor | 82 | [YouTube](https://youtube.com/shorts/7DAEuLHfPBw) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/autumn-cafe-jazz-piano-g-minor-82bpm-7DAEuLHfPBw.mid) |
 | Reflective Piano Music | emotional piano | F# minor | 67 | [YouTube](https://youtube.com/shorts/eatssl-EzUM) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/reflective-piano-music-f#-minor-67bpm-eatssl-EzUM.mid) |
 | Quiet Rainy Day Piano | emotional piano | C major | 71 | [YouTube](https://youtube.com/shorts/HTnRYbXuVjs) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/quiet-rainy-day-piano-c-major-71bpm-HTnRYbXuVjs.mid) |
 | Gentle Swing Piano BGM | longform emotional |   |  | [YouTube](https://youtube.com/shorts/PEsuo4oH7Vc) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/gentle-swing-piano-bgm---bpm-PEsuo4oH7Vc.mid) |
