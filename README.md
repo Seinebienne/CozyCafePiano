@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 5월 (114곡)</summary>
+<summary>📅 2026년 5월 (115곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Calm Piano for Studying | emotional piano | E major | 64 | [YouTube](https://youtube.com/shorts/79M-mJkpfbc) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/calm-piano-for-studying-e-major-64bpm-79M-mJkpfbc.mid) |
 | Autumn Cafe Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/kfJfsM0-lk0) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/autumn-cafe-jazz-piano---bpm-kfJfsM0-lk0.mid) |
 | Autumn Cafe Jazz Piano | cafe jazz | G minor | 82 | [YouTube](https://youtube.com/shorts/7DAEuLHfPBw) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/autumn-cafe-jazz-piano-g-minor-82bpm-7DAEuLHfPBw.mid) |
 | Reflective Piano Music | emotional piano | F# minor | 67 | [YouTube](https://youtube.com/shorts/eatssl-EzUM) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/reflective-piano-music-f#-minor-67bpm-eatssl-EzUM.mid) |
