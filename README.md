@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 5월 (116곡)</summary>
+<summary>📅 2026년 5월 (117곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Smooth Jazz Piano Cafe | cafe jazz | G minor | 87 | [YouTube](https://youtube.com/shorts/U26_BKxxc8g) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/smooth-jazz-piano-cafe-g-minor-87bpm-U26_BKxxc8g.mid) |
 | Bittersweet Piano BGM | emotional piano | E major | 67 | [YouTube](https://youtube.com/shorts/_znN0s7-jKA) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/bittersweet-piano-bgm-e-major-67bpm-_znN0s7-jKA.mid) |
 | Calm Piano for Studying | emotional piano | E major | 64 | [YouTube](https://youtube.com/shorts/79M-mJkpfbc) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/calm-piano-for-studying-e-major-64bpm-79M-mJkpfbc.mid) |
 | Autumn Cafe Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/kfJfsM0-lk0) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/autumn-cafe-jazz-piano---bpm-kfJfsM0-lk0.mid) |
