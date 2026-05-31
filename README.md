@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 5월 (121곡)</summary>
+<summary>📅 2026년 5월 (122곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Candlelight Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/pw5JwHgMoog) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/candlelight-jazz-piano---bpm-pw5JwHgMoog.mid) |
 | Coffee & Jazz Piano | cafe jazz | C major | 91 | [YouTube](https://youtube.com/shorts/PqxLpfKOnFY) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/coffee--jazz-piano-c-major-91bpm-PqxLpfKOnFY.mid) |
 | Reflective Piano Music | emotional piano | C major | 60 | [YouTube](https://youtube.com/shorts/eysYmwG8rzo) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/reflective-piano-music-c-major-60bpm-eysYmwG8rzo.mid) |
 | Reflective Piano Music | emotional piano | B minor | 67 | [YouTube](https://youtube.com/shorts/bA4t_zraK44) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/reflective-piano-music-b-minor-67bpm-bA4t_zraK44.mid) |
