@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 5월 (122곡)</summary>
+<summary>📅 2026년 5월 (123곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Melancholic Piano BGM | emotional piano | E major | 64 | [YouTube](https://youtube.com/shorts/q6rQp4nOZvA) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/melancholic-piano-bgm-e-major-64bpm-q6rQp4nOZvA.mid) |
 | Candlelight Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/pw5JwHgMoog) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/candlelight-jazz-piano---bpm-pw5JwHgMoog.mid) |
 | Coffee & Jazz Piano | cafe jazz | C major | 91 | [YouTube](https://youtube.com/shorts/PqxLpfKOnFY) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/coffee--jazz-piano-c-major-91bpm-PqxLpfKOnFY.mid) |
 | Reflective Piano Music | emotional piano | C major | 60 | [YouTube](https://youtube.com/shorts/eysYmwG8rzo) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/reflective-piano-music-c-major-60bpm-eysYmwG8rzo.mid) |
