@@ -10,6 +10,15 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
+<summary>📅 2026년 6월 (1곡)</summary>
+
+| Title | Genre | Key | BPM | YouTube | MIDI |
+|-------|-------|-----|-----|---------|------|
+| Coffee & Jazz Piano | cafe jazz | E minor | 79 | [YouTube](https://youtube.com/shorts/dAuIcJEEApA) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/coffee--jazz-piano-e-minor-79bpm-dAuIcJEEApA.mid) |
+
+</details>
+
+<details>
 <summary>📅 2026년 5월 (124곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
