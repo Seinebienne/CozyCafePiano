@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 6월 (4곡)</summary>
+<summary>📅 2026년 6월 (5곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Gentle Jazz Piano BGM | cafe jazz | C major | 78 | [YouTube](https://youtube.com/shorts/vEYkePVUCBs) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/gentle-jazz-piano-bgm-c-major-78bpm-vEYkePVUCBs.mid) |
 | Bittersweet Piano BGM | emotional piano | E major | 65 | [YouTube](https://youtube.com/shorts/7X7EBYY6E-4) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/bittersweet-piano-bgm-e-major-65bpm-7X7EBYY6E-4.mid) |
 | Beautiful Emotional Piano BGM | emotional piano | A major | 71 | [YouTube](https://youtube.com/shorts/JIRWcftGyDw) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/beautiful-emotional-piano-bgm-a-major-71bpm-JIRWcftGyDw.mid) |
 | Late Night Cafe Jazz | longform emotional |   |  | [YouTube](https://youtube.com/shorts/ihuRLWSFoUQ) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/late-night-cafe-jazz---bpm-ihuRLWSFoUQ.mid) |
