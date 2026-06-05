@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 6월 (18곡)</summary>
+<summary>📅 2026년 6월 (19곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Longing Piano BGM | emotional piano | C major | 64 | [YouTube](https://youtube.com/shorts/WmV2re3oir0) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/longing-piano-bgm-c-major-64bpm-WmV2re3oir0.mid) |
 | Calm Cafe Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/Nl72flAgg7w) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/calm-cafe-jazz-piano---bpm-Nl72flAgg7w.mid) |
 | Slow Jazz Piano for Reading | cafe jazz | B minor | 76 | [YouTube](https://youtube.com/shorts/3arquPu5Znw) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/slow-jazz-piano-for-reading-b-minor-76bpm-3arquPu5Znw.mid) |
 | Misty Morning Piano | emotional piano | C minor | 68 | [YouTube](https://youtube.com/shorts/5qb0w_-Xte8) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/misty-morning-piano-c-minor-68bpm-5qb0w_-Xte8.mid) |
