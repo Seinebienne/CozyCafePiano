@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 6월 (21곡)</summary>
+<summary>📅 2026년 6월 (22곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Rainy Cafe Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/8qpnrWHS09Y) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/rainy-cafe-jazz-piano---bpm-8qpnrWHS09Y.mid) |
 | Slow Jazz Piano for Reading | cafe jazz | A minor | 95 | [YouTube](https://youtube.com/shorts/NfqOXyQhFZw) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/slow-jazz-piano-for-reading-a-minor-95bpm-NfqOXyQhFZw.mid) |
 | Ethereal Piano Melody | emotional piano | G major | 59 | [YouTube](https://youtube.com/shorts/CuzSObwqRjI) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/ethereal-piano-melody-g-major-59bpm-CuzSObwqRjI.mid) |
 | Longing Piano BGM | emotional piano | C major | 64 | [YouTube](https://youtube.com/shorts/WmV2re3oir0) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/longing-piano-bgm-c-major-64bpm-WmV2re3oir0.mid) |
