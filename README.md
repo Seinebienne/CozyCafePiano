@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 6월 (33곡)</summary>
+<summary>📅 2026년 6월 (34곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Morning Coffee Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/qCerwH6lBVs) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/morning-coffee-jazz-piano---bpm-qCerwH6lBVs.mid) |
 | Gentle Swing Piano BGM | cafe jazz | C major | 92 | [YouTube](https://youtube.com/shorts/DKX81Osh_4Y) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/gentle-swing-piano-bgm-c-major-92bpm-DKX81Osh_4Y.mid) |
 | Melancholic Piano BGM | emotional piano | E major | 75 | [YouTube](https://youtube.com/shorts/YI44g_JiZl4) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/melancholic-piano-bgm-e-major-75bpm-YI44g_JiZl4.mid) |
 | Reflective Piano Music | emotional piano | D major | 63 | [YouTube](https://youtube.com/shorts/QedPSzi9DcA) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/reflective-piano-music-d-major-63bpm-QedPSzi9DcA.mid) |
