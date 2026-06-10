@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 6월 (38곡)</summary>
+<summary>📅 2026년 6월 (39곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Melancholic Piano BGM | emotional piano | C major | 62 | [YouTube](https://youtube.com/shorts/AMjBqZ25ES8) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/melancholic-piano-bgm-c-major-62bpm-AMjBqZ25ES8.mid) |
 | Rainy Cafe Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/H4q9aPaNPaM) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/rainy-cafe-jazz-piano---bpm-H4q9aPaNPaM.mid) |
 | Candlelight Jazz Piano | cafe jazz | C major | 83 | [YouTube](https://youtube.com/shorts/0x5oJVfZhWI) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/candlelight-jazz-piano-c-major-83bpm-0x5oJVfZhWI.mid) |
 | Melancholic Piano BGM | emotional piano | F# minor | 71 | [YouTube](https://youtube.com/shorts/o1wWzGj8uhA) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/melancholic-piano-bgm-f#-minor-71bpm-o1wWzGj8uhA.mid) |
