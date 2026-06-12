@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 6월 (45곡)</summary>
+<summary>📅 2026년 6월 (46곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Warm Piano Jazz | longform emotional |   |  | [YouTube](https://youtube.com/shorts/ryz-ko8-XlM) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/warm-piano-jazz---bpm-ryz-ko8-XlM.mid) |
 | Gentle Jazz Piano BGM | cafe jazz | F# minor | 93 | [YouTube](https://youtube.com/shorts/WlRXRHjb6cA) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/gentle-jazz-piano-bgm-f#-minor-93bpm-WlRXRHjb6cA.mid) |
 | Ethereal Piano Melody | emotional piano | D minor | 94 | [YouTube](https://youtube.com/shorts/w-9pBGxXPTU) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/ethereal-piano-melody-d-minor-94bpm-w-9pBGxXPTU.mid) |
 | Dreamy Piano BGM | emotional piano | F# minor | 65 | [YouTube](https://youtube.com/shorts/Kp5iqEkm4aI) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/dreamy-piano-bgm-f#-minor-65bpm-Kp5iqEkm4aI.mid) |
