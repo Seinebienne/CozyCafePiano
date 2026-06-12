@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 6월 (47곡)</summary>
+<summary>📅 2026년 6월 (48곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Late Night Piano BGM | emotional piano | A major | 61 | [YouTube](https://youtube.com/shorts/Kgk7tNPlwpw) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/late-night-piano-bgm-a-major-61bpm-Kgk7tNPlwpw.mid) |
 | Midnight Piano BGM | emotional piano | D major | 72 | [YouTube](https://youtube.com/shorts/RWN6fl1vueE) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/midnight-piano-bgm-d-major-72bpm-RWN6fl1vueE.mid) |
 | Warm Piano Jazz | longform emotional |   |  | [YouTube](https://youtube.com/shorts/ryz-ko8-XlM) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/warm-piano-jazz---bpm-ryz-ko8-XlM.mid) |
 | Gentle Jazz Piano BGM | cafe jazz | F# minor | 93 | [YouTube](https://youtube.com/shorts/WlRXRHjb6cA) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/gentle-jazz-piano-bgm-f#-minor-93bpm-WlRXRHjb6cA.mid) |
