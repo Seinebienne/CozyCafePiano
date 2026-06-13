@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 6월 (49곡)</summary>
+<summary>📅 2026년 6월 (50곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Mellow Jazz Piano BGM | longform emotional |   |  | [YouTube](https://youtube.com/shorts/JjZ7yRQ6hXk) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/mellow-jazz-piano-bgm---bpm-JjZ7yRQ6hXk.mid) |
 | Smooth Jazz Piano Cafe | cafe jazz | B minor | 95 | [YouTube](https://youtube.com/shorts/SwBYdbm3rYk) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/smooth-jazz-piano-cafe-b-minor-95bpm-SwBYdbm3rYk.mid) |
 | Late Night Piano BGM | emotional piano | A major | 61 | [YouTube](https://youtube.com/shorts/Kgk7tNPlwpw) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/late-night-piano-bgm-a-major-61bpm-Kgk7tNPlwpw.mid) |
 | Midnight Piano BGM | emotional piano | D major | 72 | [YouTube](https://youtube.com/shorts/RWN6fl1vueE) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/midnight-piano-bgm-d-major-72bpm-RWN6fl1vueE.mid) |
