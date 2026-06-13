@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 6월 (51곡)</summary>
+<summary>📅 2026년 6월 (52곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Ethereal Piano Melody | emotional piano | D major | 62 | [YouTube](https://youtube.com/shorts/EWCYqwUHa_g) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/ethereal-piano-melody-d-major-62bpm-EWCYqwUHa_g.mid) |
 | Sad & Beautiful Piano BGM | emotional piano | G minor | 61 | [YouTube](https://youtube.com/shorts/Cy504LUVe74) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/sad--beautiful-piano-bgm-g-minor-61bpm-Cy504LUVe74.mid) |
 | Mellow Jazz Piano BGM | longform emotional |   |  | [YouTube](https://youtube.com/shorts/JjZ7yRQ6hXk) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/mellow-jazz-piano-bgm---bpm-JjZ7yRQ6hXk.mid) |
 | Smooth Jazz Piano Cafe | cafe jazz | B minor | 95 | [YouTube](https://youtube.com/shorts/SwBYdbm3rYk) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/smooth-jazz-piano-cafe-b-minor-95bpm-SwBYdbm3rYk.mid) |
