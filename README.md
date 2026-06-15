@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 6월 (58곡)</summary>
+<summary>📅 2026년 6월 (59곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Heartfelt Piano BGM | emotional piano | A minor | 62 | [YouTube](https://youtube.com/shorts/zjx_3BHuyPU) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/heartfelt-piano-bgm-a-minor-62bpm-zjx_3BHuyPU.mid) |
 | Jazz Piano Loop | longform emotional |   |  | [YouTube](https://youtube.com/shorts/GoKSEEfeQYo) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/jazz-piano-loop---bpm-GoKSEEfeQYo.mid) |
 | Morning Coffee Jazz Piano | cafe jazz | A minor | 83 | [YouTube](https://youtube.com/shorts/WqfLp5KWaHA) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/morning-coffee-jazz-piano-a-minor-83bpm-WqfLp5KWaHA.mid) |
 | Longing Piano BGM | emotional piano | C minor | 58 | [YouTube](https://youtube.com/shorts/wYlUDl23JgY) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/longing-piano-bgm-c-minor-58bpm-wYlUDl23JgY.mid) |
