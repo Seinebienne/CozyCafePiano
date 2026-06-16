@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 6월 (62곡)</summary>
+<summary>📅 2026년 6월 (63곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Tender Piano BGM | emotional piano | G major | 60 | [YouTube](https://youtube.com/shorts/zK-bfF90eUM) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/tender-piano-bgm-g-major-60bpm-zK-bfF90eUM.mid) |
 | Cozy Coffee Shop Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/ocPOpFmNteM) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/cozy-coffee-shop-jazz-piano---bpm-ocPOpFmNteM.mid) |
 | Bossa Nova Cafe Piano | cafe jazz | G minor | 93 | [YouTube](https://youtube.com/shorts/QkMTD8JUAcE) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/bossa-nova-cafe-piano-g-minor-93bpm-QkMTD8JUAcE.mid) |
 | Sad & Beautiful Piano BGM | emotional piano | D major | 70 | [YouTube](https://youtube.com/shorts/aTDBhQUnxlo) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/sad--beautiful-piano-bgm-d-major-70bpm-aTDBhQUnxlo.mid) |
