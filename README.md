@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 6월 (66곡)</summary>
+<summary>📅 2026년 6월 (67곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Peaceful Piano Melody | emotional piano | D minor | 71 | [YouTube](https://youtube.com/shorts/o4XVpSg-fwM) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/peaceful-piano-melody-d-minor-71bpm-o4XVpSg-fwM.mid) |
 | Gentle Jazz Piano BGM | longform emotional |   |  | [YouTube](https://youtube.com/shorts/hEXpZ8Ow664) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/gentle-jazz-piano-bgm---bpm-hEXpZ8Ow664.mid) |
 | Autumn Cafe Jazz Piano | cafe jazz | D minor | 80 | [YouTube](https://youtube.com/shorts/kX8Y0DTH15Q) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/autumn-cafe-jazz-piano-d-minor-80bpm-kX8Y0DTH15Q.mid) |
 | Peaceful Piano Melody | emotional piano | F# minor | 70 | [YouTube](https://youtube.com/shorts/Bha8yTQwTRQ) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/peaceful-piano-melody-f#-minor-70bpm-Bha8yTQwTRQ.mid) |
