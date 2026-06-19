@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 6월 (74곡)</summary>
+<summary>📅 2026년 6월 (75곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Peaceful Piano Melody | emotional piano | A major | 64 | [YouTube](https://youtube.com/shorts/U9NNAw7GOcs) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/peaceful-piano-melody-a-major-64bpm-U9NNAw7GOcs.mid) |
 | Slow Jazz Piano for Reading | longform emotional |   |  | [YouTube](https://youtube.com/shorts/C5o9OjRKgFc) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/slow-jazz-piano-for-reading---bpm-C5o9OjRKgFc.mid) |
 | Coffee & Jazz Piano | cafe jazz | F# minor | 92 | [YouTube](https://youtube.com/shorts/Bhj3_V3xyrI) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/coffee--jazz-piano-f#-minor-92bpm-Bhj3_V3xyrI.mid) |
 | Late Night Piano BGM | emotional piano | F major | 72 | [YouTube](https://youtube.com/shorts/i0PpPx0B7Lo) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/late-night-piano-bgm-f-major-72bpm-i0PpPx0B7Lo.mid) |
