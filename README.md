@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 6월 (73곡)</summary>
+<summary>📅 2026년 6월 (74곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Slow Jazz Piano for Reading | longform emotional |   |  | [YouTube](https://youtube.com/shorts/C5o9OjRKgFc) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/slow-jazz-piano-for-reading---bpm-C5o9OjRKgFc.mid) |
 | Coffee & Jazz Piano | cafe jazz | F# minor | 92 | [YouTube](https://youtube.com/shorts/Bhj3_V3xyrI) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/coffee--jazz-piano-f#-minor-92bpm-Bhj3_V3xyrI.mid) |
 | Late Night Piano BGM | emotional piano | F major | 72 | [YouTube](https://youtube.com/shorts/i0PpPx0B7Lo) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/late-night-piano-bgm-f-major-72bpm-i0PpPx0B7Lo.mid) |
 | Reflective Piano Music | emotional piano | D minor | 66 | [YouTube](https://youtube.com/shorts/pQZNSa7OHCI) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/reflective-piano-music-d-minor-66bpm-pQZNSa7OHCI.mid) |
