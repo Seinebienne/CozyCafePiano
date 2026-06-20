@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 6월 (79곡)</summary>
+<summary>📅 2026년 6월 (80곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Misty Morning Piano | emotional piano | C minor | 71 | [YouTube](https://youtube.com/shorts/cOfbUwDt5ss) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/misty-morning-piano-c-minor-71bpm-cOfbUwDt5ss.mid) |
 | Calm Piano for Studying | emotional piano | F major | 61 | [YouTube](https://youtube.com/shorts/4r1Bt7uYPYc) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/calm-piano-for-studying-f-major-61bpm-4r1Bt7uYPYc.mid) |
 | Old School Jazz Piano BGM | longform emotional |   |  | [YouTube](https://youtube.com/shorts/INOIj36unKk) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/old-school-jazz-piano-bgm---bpm-INOIj36unKk.mid) |
 | Soft Swing Piano | cafe jazz | A minor | 77 | [YouTube](https://youtube.com/shorts/TphWoiniHXs) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/soft-swing-piano-a-minor-77bpm-TphWoiniHXs.mid) |
