@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 6월 (81곡)</summary>
+<summary>📅 2026년 6월 (82곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Soft Jazz Piano for Studying | longform emotional |   |  | [YouTube](https://youtube.com/shorts/Vb1U-wHVirc) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/soft-jazz-piano-for-studying---bpm-Vb1U-wHVirc.mid) |
 | Lazy Sunday Jazz Piano | cafe jazz | D minor | 78 | [YouTube](https://youtube.com/shorts/DfrEvaWldDY) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/lazy-sunday-jazz-piano-d-minor-78bpm-DfrEvaWldDY.mid) |
 | Misty Morning Piano | emotional piano | C minor | 71 | [YouTube](https://youtube.com/shorts/cOfbUwDt5ss) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/misty-morning-piano-c-minor-71bpm-cOfbUwDt5ss.mid) |
 | Calm Piano for Studying | emotional piano | F major | 61 | [YouTube](https://youtube.com/shorts/4r1Bt7uYPYc) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/calm-piano-for-studying-f-major-61bpm-4r1Bt7uYPYc.mid) |
