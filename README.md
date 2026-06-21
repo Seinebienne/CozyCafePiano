@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 6월 (83곡)</summary>
+<summary>📅 2026년 6월 (84곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Emotional Piano BGM | emotional piano | G minor | 66 | [YouTube](https://youtube.com/shorts/HyGN_cDFSDY) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/emotional-piano-bgm-g-minor-66bpm-HyGN_cDFSDY.mid) |
 | Peaceful Piano Melody | emotional piano | F# minor | 71 | [YouTube](https://youtube.com/shorts/VVBSUztLuhc) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/peaceful-piano-melody-f#-minor-71bpm-VVBSUztLuhc.mid) |
 | Soft Jazz Piano for Studying | longform emotional |   |  | [YouTube](https://youtube.com/shorts/Vb1U-wHVirc) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/soft-jazz-piano-for-studying---bpm-Vb1U-wHVirc.mid) |
 | Lazy Sunday Jazz Piano | cafe jazz | D minor | 78 | [YouTube](https://youtube.com/shorts/DfrEvaWldDY) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/lazy-sunday-jazz-piano-d-minor-78bpm-DfrEvaWldDY.mid) |
