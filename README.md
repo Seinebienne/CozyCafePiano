@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 6월 (85곡)</summary>
+<summary>📅 2026년 6월 (86곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Soft Swing Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/Xr01ccDQNx0) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/soft-swing-piano---bpm-Xr01ccDQNx0.mid) |
 | Calm Cafe Jazz Piano | cafe jazz | C major | 90 | [YouTube](https://youtube.com/shorts/Dd-TCFwJatU) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/calm-cafe-jazz-piano-c-major-90bpm-Dd-TCFwJatU.mid) |
 | Emotional Piano BGM | emotional piano | G minor | 66 | [YouTube](https://youtube.com/shorts/HyGN_cDFSDY) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/emotional-piano-bgm-g-minor-66bpm-HyGN_cDFSDY.mid) |
 | Peaceful Piano Melody | emotional piano | F# minor | 71 | [YouTube](https://youtube.com/shorts/VVBSUztLuhc) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/peaceful-piano-melody-f#-minor-71bpm-VVBSUztLuhc.mid) |
