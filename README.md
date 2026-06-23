@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 6월 (89곡)</summary>
+<summary>📅 2026년 6월 (90곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Jazz Piano at the Window | longform emotional |   |  | [YouTube](https://youtube.com/shorts/osV3dQB42SM) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/jazz-piano-at-the-window---bpm-osV3dQB42SM.mid) |
 | Rainy Window Jazz Piano | cafe jazz | E minor | 90 | [YouTube](https://youtube.com/shorts/VBKBK8PEHWk) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/rainy-window-jazz-piano-e-minor-90bpm-VBKBK8PEHWk.mid) |
 | Peaceful Piano Melody | emotional piano | C minor | 66 | [YouTube](https://youtube.com/shorts/5QW4VJUTzss) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/peaceful-piano-melody-c-minor-66bpm-5QW4VJUTzss.mid) |
 | Dreamy Piano BGM | emotional piano | D minor | 72 | [YouTube](https://youtube.com/shorts/p586nI7Drgs) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/dreamy-piano-bgm-d-minor-72bpm-p586nI7Drgs.mid) |
