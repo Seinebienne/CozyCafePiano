@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 6월 (95곡)</summary>
+<summary>📅 2026년 6월 (96곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Quiet Rainy Day Piano | emotional piano | F major | 62 | [YouTube](https://youtube.com/shorts/D089VzcctJI) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/quiet-rainy-day-piano-f-major-62bpm-D089VzcctJI.mid) |
 | Melancholic Piano BGM | emotional piano | C major | 66 | [YouTube](https://youtube.com/shorts/ODFoD805gEY) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/melancholic-piano-bgm-c-major-66bpm-ODFoD805gEY.mid) |
 | Sunday Morning Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/ZkjocjwriHw) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/sunday-morning-jazz-piano---bpm-ZkjocjwriHw.mid) |
 | Warm Jazz Piano BGM | cafe jazz | G minor | 80 | [YouTube](https://youtube.com/shorts/h9j9azZLznU) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/warm-jazz-piano-bgm-g-minor-80bpm-h9j9azZLznU.mid) |
