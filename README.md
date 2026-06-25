@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 6월 (98곡)</summary>
+<summary>📅 2026년 6월 (99곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Emotional Piano BGM | emotional piano | F major | 63 | [YouTube](https://youtube.com/shorts/yB09dI5yQM0) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/emotional-piano-bgm-f-major-63bpm-yB09dI5yQM0.mid) |
 | Cloudy Day Cafe Jazz | longform emotional |   |  | [YouTube](https://youtube.com/shorts/0TSpvGMxz7A) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/cloudy-day-cafe-jazz---bpm-0TSpvGMxz7A.mid) |
 | Bossa Nova Cafe Piano | cafe jazz | E minor | 94 | [YouTube](https://youtube.com/shorts/R5uUwA9zqzU) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/bossa-nova-cafe-piano-e-minor-94bpm-R5uUwA9zqzU.mid) |
 | Quiet Rainy Day Piano | emotional piano | F major | 62 | [YouTube](https://youtube.com/shorts/D089VzcctJI) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/quiet-rainy-day-piano-f-major-62bpm-D089VzcctJI.mid) |
