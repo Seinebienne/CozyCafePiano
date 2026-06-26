@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 6월 (100곡)</summary>
+<summary>📅 2026년 6월 (101곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Chill Jazz Piano BGM | cafe jazz | F# minor | 82 | [YouTube](https://youtube.com/shorts/tTUH-FPGyXg) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/chill-jazz-piano-bgm-f#-minor-82bpm-tTUH-FPGyXg.mid) |
 | Sad & Beautiful Piano BGM | emotional piano | A major | 63 | [YouTube](https://youtube.com/shorts/slU57yTleqM) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/sad--beautiful-piano-bgm-a-major-63bpm-slU57yTleqM.mid) |
 | Emotional Piano BGM | emotional piano | F major | 63 | [YouTube](https://youtube.com/shorts/yB09dI5yQM0) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/emotional-piano-bgm-f-major-63bpm-yB09dI5yQM0.mid) |
 | Cloudy Day Cafe Jazz | longform emotional |   |  | [YouTube](https://youtube.com/shorts/0TSpvGMxz7A) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/cloudy-day-cafe-jazz---bpm-0TSpvGMxz7A.mid) |
