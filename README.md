@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 6월 (107곡)</summary>
+<summary>📅 2026년 6월 (108곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Sad & Beautiful Piano BGM | emotional piano | A major | 70 | [YouTube](https://youtube.com/shorts/hwoKf2Rpb_s) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/sad--beautiful-piano-bgm-a-major-70bpm-hwoKf2Rpb_s.mid) |
 | Emotional Piano BGM | emotional piano | E minor | 60 | [YouTube](https://youtube.com/shorts/ho17iM4ClL8) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/emotional-piano-bgm-e-minor-60bpm-ho17iM4ClL8.mid) |
 | Warm Piano Jazz | longform emotional |   |  | [YouTube](https://youtube.com/shorts/rC2jmpHaShw) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/warm-piano-jazz---bpm-rC2jmpHaShw.mid) |
 | Morning Coffee Jazz Piano | cafe jazz | E minor | 78 | [YouTube](https://youtube.com/shorts/oUJ0_8ZJZB8) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/morning-coffee-jazz-piano-e-minor-78bpm-oUJ0_8ZJZB8.mid) |
