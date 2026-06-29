@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 6월 (112곡)</summary>
+<summary>📅 2026년 6월 (113곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Warm Jazz Piano BGM | cafe jazz | G minor | 86 | [YouTube](https://youtube.com/shorts/FC5V-tEzAkg) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/warm-jazz-piano-bgm-g-minor-86bpm-FC5V-tEzAkg.mid) |
 | Emotional Piano BGM | emotional piano | A minor | 72 | [YouTube](https://youtube.com/shorts/FiNKp_XjgmI) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/emotional-piano-bgm-a-minor-72bpm-FiNKp_XjgmI.mid) |
 | Misty Morning Piano | emotional piano | F# minor | 66 | [YouTube](https://youtube.com/shorts/1rp-izTMpF0) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/misty-morning-piano-f#-minor-66bpm-1rp-izTMpF0.mid) |
 | Candlelight Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/tf5TshgXCfo) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/candlelight-jazz-piano---bpm-tf5TshgXCfo.mid) |
