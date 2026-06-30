@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 6월 (116곡)</summary>
+<summary>📅 2026년 6월 (117곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Autumn Cafe Jazz Piano | cafe jazz | E minor | 75 | [YouTube](https://youtube.com/shorts/ruZutb2Js5s) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/autumn-cafe-jazz-piano-e-minor-75bpm-ruZutb2Js5s.mid) |
 | Midnight Piano BGM | emotional piano | C major | 70 | [YouTube](https://youtube.com/shorts/mijGrHnVUgw) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/midnight-piano-bgm-c-major-70bpm-mijGrHnVUgw.mid) |
 | Quiet Rainy Day Piano | emotional piano | D major | 61 | [YouTube](https://youtube.com/shorts/xoHEs8rp3Xk) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/quiet-rainy-day-piano-d-major-61bpm-xoHEs8rp3Xk.mid) |
 | Lazy Sunday Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/1AgkwF2dKCs) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/lazy-sunday-jazz-piano---bpm-1AgkwF2dKCs.mid) |
