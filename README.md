@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 6월 (119곡)</summary>
+<summary>📅 2026년 6월 (120곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Late Night Piano BGM | emotional piano | A major | 63 | [YouTube](https://youtube.com/shorts/M8SRKy386vQ) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/late-night-piano-bgm-a-major-63bpm-M8SRKy386vQ.mid) |
 | Midnight Piano BGM | emotional piano | C major | 70 | [YouTube](https://youtube.com/shorts/ELsFAq-Ihz0) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/midnight-piano-bgm-c-major-70bpm-ELsFAq-Ihz0.mid) |
 | Mellow Jazz Piano BGM | longform emotional |   |  | [YouTube](https://youtube.com/shorts/i3iVUQO0HAk) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/mellow-jazz-piano-bgm---bpm-i3iVUQO0HAk.mid) |
 | Autumn Cafe Jazz Piano | cafe jazz | E minor | 75 | [YouTube](https://youtube.com/shorts/ruZutb2Js5s) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/autumn-cafe-jazz-piano-e-minor-75bpm-ruZutb2Js5s.mid) |
