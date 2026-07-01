@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 7월 (1곡)</summary>
+<summary>📅 2026년 7월 (2곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Cool Jazz Piano BGM | longform emotional |   |  | [YouTube](https://youtube.com/shorts/s1ic7G_sLIQ) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/cool-jazz-piano-bgm---bpm-s1ic7G_sLIQ.mid) |
 | Smooth Jazz Piano Cafe | cafe jazz | B minor | 78 | [YouTube](https://youtube.com/shorts/Ynggt46C7qM) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/smooth-jazz-piano-cafe-b-minor-78bpm-Ynggt46C7qM.mid) |
 
 </details>
