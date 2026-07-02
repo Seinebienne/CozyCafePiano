@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 7월 (5곡)</summary>
+<summary>📅 2026년 7월 (6곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Cozy Coffee Shop Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/RWuBkVwro0s) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/cozy-coffee-shop-jazz-piano---bpm-RWuBkVwro0s.mid) |
 | Autumn Cafe Jazz Piano | cafe jazz | D minor | 85 | [YouTube](https://youtube.com/shorts/Hk-8KbF7Vts) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/autumn-cafe-jazz-piano-d-minor-85bpm-Hk-8KbF7Vts.mid) |
 | Peaceful Piano Melody | emotional piano | D minor | 68 | [YouTube](https://youtube.com/shorts/omVvdtBnSGc) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/peaceful-piano-melody-d-minor-68bpm-omVvdtBnSGc.mid) |
 | Midnight Piano BGM | emotional piano | E major | 61 | [YouTube](https://youtube.com/shorts/_mQj6XxoWu8) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/midnight-piano-bgm-e-major-61bpm-_mQj6XxoWu8.mid) |
