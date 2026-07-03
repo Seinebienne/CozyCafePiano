@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 7월 (8곡)</summary>
+<summary>📅 2026년 7월 (9곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Lazy Sunday Jazz Piano | cafe jazz | A minor | 79 | [YouTube](https://youtube.com/shorts/Fv9Gzb83Ego) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/lazy-sunday-jazz-piano-a-minor-79bpm-Fv9Gzb83Ego.mid) |
 | Sad & Beautiful Piano BGM | emotional piano | C major | 59 | [YouTube](https://youtube.com/shorts/dd3BDcrzw_s) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/sad--beautiful-piano-bgm-c-major-59bpm-dd3BDcrzw_s.mid) |
 | Beautiful Emotional Piano BGM | emotional piano | F# minor | 65 | [YouTube](https://youtube.com/shorts/uD9e-M0UypQ) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/beautiful-emotional-piano-bgm-f#-minor-65bpm-uD9e-M0UypQ.mid) |
 | Cozy Coffee Shop Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/RWuBkVwro0s) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/cozy-coffee-shop-jazz-piano---bpm-RWuBkVwro0s.mid) |
