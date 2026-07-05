@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 7월 (16곡)</summary>
+<summary>📅 2026년 7월 (17곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Gentle Swing Piano BGM | cafe jazz | D minor | 75 | [YouTube](https://youtube.com/shorts/L4R8pOcO0QQ) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/gentle-swing-piano-bgm-d-minor-75bpm-L4R8pOcO0QQ.mid) |
 | Dreamy Piano BGM | emotional piano | D minor | 67 | [YouTube](https://youtube.com/shorts/E2spnDz-1G4) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/dreamy-piano-bgm-d-minor-67bpm-E2spnDz-1G4.mid) |
 | Heartfelt Piano BGM | emotional piano | B minor | 67 | [YouTube](https://youtube.com/shorts/ncV8c5nYGnQ) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/heartfelt-piano-bgm-b-minor-67bpm-ncV8c5nYGnQ.mid) |
 | Late Night Cafe Jazz | longform emotional |   |  | [YouTube](https://youtube.com/shorts/gSaPoEE-UBg) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/late-night-cafe-jazz---bpm-gSaPoEE-UBg.mid) |
