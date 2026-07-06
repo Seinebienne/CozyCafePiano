@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 7월 (22곡)</summary>
+<summary>📅 2026년 7월 (23곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Longing Piano BGM | emotional piano | A minor | 72 | [YouTube](https://youtube.com/shorts/fdCXRDV2S6Q) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/longing-piano-bgm-a-minor-72bpm-fdCXRDV2S6Q.mid) |
 | Jazz Piano at the Window | longform emotional |   |  | [YouTube](https://youtube.com/shorts/zRjBKG3CKjE) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/jazz-piano-at-the-window---bpm-zRjBKG3CKjE.mid) |
 | Coffee & Jazz Piano | cafe jazz | B minor | 78 | [YouTube](https://youtube.com/shorts/8U3s3pPCb_E) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/coffee--jazz-piano-b-minor-78bpm-8U3s3pPCb_E.mid) |
 | Midnight Piano BGM | emotional piano | F major | 70 | [YouTube](https://youtube.com/shorts/2GtZtbP7f-0) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/midnight-piano-bgm-f-major-70bpm-2GtZtbP7f-0.mid) |
