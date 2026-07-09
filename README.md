@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 7월 (34곡)</summary>
+<summary>📅 2026년 7월 (35곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Gentle Emotional Piano | emotional piano | E minor | 67 | [YouTube](https://youtube.com/shorts/5BdmH14-3v8) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/gentle-emotional-piano-e-minor-67bpm-5BdmH14-3v8.mid) |
 | Smooth Jazz Piano Cafe | longform emotional |   |  | [YouTube](https://youtube.com/shorts/qYp_VNG6B78) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/smooth-jazz-piano-cafe---bpm-qYp_VNG6B78.mid) |
 | Midnight Jazz Piano | cafe jazz | F# minor | 86 | [YouTube](https://youtube.com/shorts/LDSvk2d-NJI) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/midnight-jazz-piano-f#-minor-86bpm-LDSvk2d-NJI.mid) |
 | Emotional Piano BGM | emotional piano | C major | 58 | [YouTube](https://youtube.com/shorts/9ft-8OAJCKM) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/emotional-piano-bgm-c-major-58bpm-9ft-8OAJCKM.mid) |
