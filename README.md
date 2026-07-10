@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 7월 (39곡)</summary>
+<summary>📅 2026년 7월 (40곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Soft Piano BGM | emotional piano | B minor | 69 | [YouTube](https://youtube.com/shorts/7cHvVTeES60) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/soft-piano-bgm-b-minor-69bpm-7cHvVTeES60.mid) |
 | Calm Piano for Studying | emotional piano | E minor | 68 | [YouTube](https://youtube.com/shorts/WOH_Y7gXuHs) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/calm-piano-for-studying-e-minor-68bpm-WOH_Y7gXuHs.mid) |
 | Warm Jazz Piano BGM | longform emotional |   |  | [YouTube](https://youtube.com/shorts/_CTuQcgjdRI) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/warm-jazz-piano-bgm---bpm-_CTuQcgjdRI.mid) |
 | Jazz Piano at the Window | cafe jazz | B minor | 79 | [YouTube](https://youtube.com/shorts/sc6aT9r8fog) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/jazz-piano-at-the-window-b-minor-79bpm-sc6aT9r8fog.mid) |
