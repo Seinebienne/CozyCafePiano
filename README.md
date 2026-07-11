@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 7월 (43곡)</summary>
+<summary>📅 2026년 7월 (44곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Peaceful Piano Melody | emotional piano | E minor | 59 | [YouTube](https://youtube.com/shorts/11ZmAwMhThE) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/peaceful-piano-melody-e-minor-59bpm-11ZmAwMhThE.mid) |
 | Dreamy Piano BGM | emotional piano | A major | 65 | [YouTube](https://youtube.com/shorts/egw9bHOzxcw) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/dreamy-piano-bgm-a-major-65bpm-egw9bHOzxcw.mid) |
 | Warm Piano Jazz | longform emotional |   |  | [YouTube](https://youtube.com/shorts/_QdEutp3XeA) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/warm-piano-jazz---bpm-_QdEutp3XeA.mid) |
 | Bossa Nova Cafe Piano | cafe jazz | B minor | 75 | [YouTube](https://youtube.com/shorts/v0Viz2rxduw) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/bossa-nova-cafe-piano-b-minor-75bpm-v0Viz2rxduw.mid) |
