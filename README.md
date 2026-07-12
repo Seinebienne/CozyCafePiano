@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 7월 (45곡)</summary>
+<summary>📅 2026년 7월 (46곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Sunday Morning Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/8BdssoXPJeo) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/sunday-morning-jazz-piano---bpm-8BdssoXPJeo.mid) |
 | Slow Jazz Piano for Reading | cafe jazz | A minor | 93 | [YouTube](https://youtube.com/shorts/2RH7gts0Koc) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/slow-jazz-piano-for-reading-a-minor-93bpm-2RH7gts0Koc.mid) |
 | Peaceful Piano Melody | emotional piano | E minor | 59 | [YouTube](https://youtube.com/shorts/11ZmAwMhThE) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/peaceful-piano-melody-e-minor-59bpm-11ZmAwMhThE.mid) |
 | Dreamy Piano BGM | emotional piano | A major | 65 | [YouTube](https://youtube.com/shorts/egw9bHOzxcw) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/dreamy-piano-bgm-a-major-65bpm-egw9bHOzxcw.mid) |
