@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 7월 (47곡)</summary>
+<summary>📅 2026년 7월 (48곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Bittersweet Piano BGM | emotional piano | E major | 60 | [YouTube](https://youtube.com/shorts/GnQ_p1WE-sI) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/bittersweet-piano-bgm-e-major-60bpm-GnQ_p1WE-sI.mid) |
 | Gentle Emotional Piano | emotional piano | G major | 70 | [YouTube](https://youtube.com/shorts/jSYj3GQ_w6o) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/gentle-emotional-piano-g-major-70bpm-jSYj3GQ_w6o.mid) |
 | Sunday Morning Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/8BdssoXPJeo) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/sunday-morning-jazz-piano---bpm-8BdssoXPJeo.mid) |
 | Slow Jazz Piano for Reading | cafe jazz | A minor | 93 | [YouTube](https://youtube.com/shorts/2RH7gts0Koc) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/slow-jazz-piano-for-reading-a-minor-93bpm-2RH7gts0Koc.mid) |
