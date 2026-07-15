@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 7월 (57곡)</summary>
+<summary>📅 2026년 7월 (58곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Gentle Swing Piano BGM | longform emotional |   |  | [YouTube](https://youtube.com/shorts/IxndWhvVyJc) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/gentle-swing-piano-bgm---bpm-IxndWhvVyJc.mid) |
 | Bossa Nova Cafe Piano | cafe jazz | C major | 87 | [YouTube](https://youtube.com/shorts/igMoG93v6UQ) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/bossa-nova-cafe-piano-c-major-87bpm-igMoG93v6UQ.mid) |
 | Dreamy Piano BGM | emotional piano | B minor | 80 | [YouTube](https://youtube.com/shorts/fVW-lS6WOdk) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/dreamy-piano-bgm-b-minor-80bpm-fVW-lS6WOdk.mid) |
 | Beautiful Emotional Piano BGM | emotional piano | D major | 60 | [YouTube](https://youtube.com/shorts/CM3VcLJane8) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/beautiful-emotional-piano-bgm-d-major-60bpm-CM3VcLJane8.mid) |
