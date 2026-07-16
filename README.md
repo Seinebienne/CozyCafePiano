@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 7월 (62곡)</summary>
+<summary>📅 2026년 7월 (63곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Ethereal Piano Melody | emotional piano | C major | 67 | [YouTube](https://youtube.com/shorts/O7P3vYT3LM4) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/ethereal-piano-melody-c-major-67bpm-O7P3vYT3LM4.mid) |
 | Morning Coffee Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/7trwoUZiBeM) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/morning-coffee-jazz-piano---bpm-7trwoUZiBeM.mid) |
 | Smooth Jazz Piano Cafe | cafe jazz | C major | 82 | [YouTube](https://youtube.com/shorts/-en-pd6jdgk) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/smooth-jazz-piano-cafe-c-major-82bpm--en-pd6jdgk.mid) |
 | Gentle Emotional Piano | emotional piano | D major | 62 | [YouTube](https://youtube.com/shorts/b9q5KbMiZI0) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/gentle-emotional-piano-d-major-62bpm-b9q5KbMiZI0.mid) |
