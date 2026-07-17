@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 7월 (67곡)</summary>
+<summary>📅 2026년 7월 (68곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Calm Piano for Studying | emotional piano | A major | 93 | [YouTube](https://youtube.com/shorts/KqJicrtHPSM) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/calm-piano-for-studying-a-major-93bpm-KqJicrtHPSM.mid) |
 | Sad & Beautiful Piano BGM | emotional piano | F major | 61 | [YouTube](https://youtube.com/shorts/gLHM7vKhrUw) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/sad--beautiful-piano-bgm-f-major-61bpm-gLHM7vKhrUw.mid) |
 | Soft Jazz Piano for Studying | longform emotional |   |  | [YouTube](https://youtube.com/shorts/wyxCJPuBK_c) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/soft-jazz-piano-for-studying---bpm-wyxCJPuBK_c.mid) |
 | Cozy Coffee Shop Jazz Piano | cafe jazz | D minor | 85 | [YouTube](https://youtube.com/shorts/lZHiYU8Bbvs) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/cozy-coffee-shop-jazz-piano-d-minor-85bpm-lZHiYU8Bbvs.mid) |
