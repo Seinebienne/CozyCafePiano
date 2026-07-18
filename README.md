@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 7월 (70곡)</summary>
+<summary>📅 2026년 7월 (71곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Heartfelt Piano BGM | emotional piano | E major | 72 | [YouTube](https://youtube.com/shorts/nD2pM6IpulQ) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/heartfelt-piano-bgm-e-major-72bpm-nD2pM6IpulQ.mid) |
 | Gentle Swing Piano BGM | longform emotional |   |  | [YouTube](https://youtube.com/shorts/QFsN7gc83xE) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/gentle-swing-piano-bgm---bpm-QFsN7gc83xE.mid) |
 | Coffee & Jazz Piano | cafe jazz | G minor | 92 | [YouTube](https://youtube.com/shorts/rIphS_CONys) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/coffee--jazz-piano-g-minor-92bpm-rIphS_CONys.mid) |
 | Calm Piano for Studying | emotional piano | A major | 93 | [YouTube](https://youtube.com/shorts/KqJicrtHPSM) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/calm-piano-for-studying-a-major-93bpm-KqJicrtHPSM.mid) |
