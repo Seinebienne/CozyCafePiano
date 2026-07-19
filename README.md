@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 7월 (74곡)</summary>
+<summary>📅 2026년 7월 (75곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Quiet Rainy Day Piano | emotional piano | G minor | 71 | [YouTube](https://youtube.com/shorts/fypgDqDX8h0) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/quiet-rainy-day-piano-g-minor-71bpm-fypgDqDX8h0.mid) |
 | Smooth Jazz Piano Cafe | longform emotional |   |  | [YouTube](https://youtube.com/shorts/mENUpUkaAjk) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/smooth-jazz-piano-cafe---bpm-mENUpUkaAjk.mid) |
 | Calm Cafe Jazz Piano | cafe jazz | C major | 95 | [YouTube](https://youtube.com/shorts/gGEKl-F-bqg) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/calm-cafe-jazz-piano-c-major-95bpm-gGEKl-F-bqg.mid) |
 | Misty Morning Piano | emotional piano | C minor | 67 | [YouTube](https://youtube.com/shorts/aFt1lUz115c) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/misty-morning-piano-c-minor-67bpm-aFt1lUz115c.mid) |
