@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 7월 (75곡)</summary>
+<summary>📅 2026년 7월 (76곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Late Night Piano BGM | emotional piano | F# minor | 72 | [YouTube](https://youtube.com/shorts/VEIC1haFafo) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/late-night-piano-bgm-f#-minor-72bpm-VEIC1haFafo.mid) |
 | Quiet Rainy Day Piano | emotional piano | G minor | 71 | [YouTube](https://youtube.com/shorts/fypgDqDX8h0) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/quiet-rainy-day-piano-g-minor-71bpm-fypgDqDX8h0.mid) |
 | Smooth Jazz Piano Cafe | longform emotional |   |  | [YouTube](https://youtube.com/shorts/mENUpUkaAjk) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/smooth-jazz-piano-cafe---bpm-mENUpUkaAjk.mid) |
 | Calm Cafe Jazz Piano | cafe jazz | C major | 95 | [YouTube](https://youtube.com/shorts/gGEKl-F-bqg) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/calm-cafe-jazz-piano-c-major-95bpm-gGEKl-F-bqg.mid) |
