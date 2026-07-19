@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 7월 (72곡)</summary>
+<summary>📅 2026년 7월 (73곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Calm Cafe Jazz Piano | cafe jazz | C major | 95 | [YouTube](https://youtube.com/shorts/gGEKl-F-bqg) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/calm-cafe-jazz-piano-c-major-95bpm-gGEKl-F-bqg.mid) |
 | Misty Morning Piano | emotional piano | C minor | 67 | [YouTube](https://youtube.com/shorts/aFt1lUz115c) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/misty-morning-piano-c-minor-67bpm-aFt1lUz115c.mid) |
 | Heartfelt Piano BGM | emotional piano | E major | 72 | [YouTube](https://youtube.com/shorts/nD2pM6IpulQ) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/heartfelt-piano-bgm-e-major-72bpm-nD2pM6IpulQ.mid) |
 | Gentle Swing Piano BGM | longform emotional |   |  | [YouTube](https://youtube.com/shorts/QFsN7gc83xE) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/gentle-swing-piano-bgm---bpm-QFsN7gc83xE.mid) |
