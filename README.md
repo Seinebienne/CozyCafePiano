@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 7월 (81곡)</summary>
+<summary>📅 2026년 7월 (82곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Morning Coffee Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/_Kz_pp9tMH0) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/morning-coffee-jazz-piano---bpm-_Kz_pp9tMH0.mid) |
 | Morning Coffee Jazz Piano | cafe jazz | F# minor | 77 | [YouTube](https://youtube.com/shorts/rSf2jNr_U98) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/morning-coffee-jazz-piano-f#-minor-77bpm-rSf2jNr_U98.mid) |
 | Beautiful Emotional Piano BGM | emotional piano | D minor | 72 | [YouTube](https://youtube.com/shorts/duh1uX8L6eI) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/beautiful-emotional-piano-bgm-d-minor-72bpm-duh1uX8L6eI.mid) |
 | Heartfelt Piano BGM | emotional piano | B minor | 72 | [YouTube](https://youtube.com/shorts/TELLxI_lOf0) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/heartfelt-piano-bgm-b-minor-72bpm-TELLxI_lOf0.mid) |
