@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 7월 (83곡)</summary>
+<summary>📅 2026년 7월 (84곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Longing Piano BGM | emotional piano | F major | 58 | [YouTube](https://youtube.com/shorts/YJjVPLXN3w8) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/longing-piano-bgm-f-major-58bpm-YJjVPLXN3w8.mid) |
 | Emotional Piano BGM | emotional piano | A minor | 69 | [YouTube](https://youtube.com/shorts/pb8A-sUwG0U) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/emotional-piano-bgm-a-minor-69bpm-pb8A-sUwG0U.mid) |
 | Morning Coffee Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/_Kz_pp9tMH0) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/morning-coffee-jazz-piano---bpm-_Kz_pp9tMH0.mid) |
 | Morning Coffee Jazz Piano | cafe jazz | F# minor | 77 | [YouTube](https://youtube.com/shorts/rSf2jNr_U98) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/morning-coffee-jazz-piano-f#-minor-77bpm-rSf2jNr_U98.mid) |
