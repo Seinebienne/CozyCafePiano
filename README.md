@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 7월 (87곡)</summary>
+<summary>📅 2026년 7월 (88곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Sad & Beautiful Piano BGM | emotional piano | E minor | 64 | [YouTube](https://youtube.com/shorts/F-DQot1bBA8) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/sad--beautiful-piano-bgm-e-minor-64bpm-F-DQot1bBA8.mid) |
 | Longing Piano BGM | emotional piano | G major | 58 | [YouTube](https://youtube.com/shorts/yx-lDb5u6XI) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/longing-piano-bgm-g-major-58bpm-yx-lDb5u6XI.mid) |
 | Mellow Jazz Piano BGM | longform emotional |   |  | [YouTube](https://youtube.com/shorts/OkZiET-b58U) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/mellow-jazz-piano-bgm---bpm-OkZiET-b58U.mid) |
 | Evening Cafe Jazz | cafe jazz | D minor | 88 | [YouTube](https://youtube.com/shorts/VVNVx57Gi44) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/evening-cafe-jazz-d-minor-88bpm-VVNVx57Gi44.mid) |
