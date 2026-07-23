@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 7월 (88곡)</summary>
+<summary>📅 2026년 7월 (89곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Cozy Coffee Shop Jazz Piano | cafe jazz | E minor | 91 | [YouTube](https://youtube.com/shorts/99WOp-3tGKk) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/cozy-coffee-shop-jazz-piano-e-minor-91bpm-99WOp-3tGKk.mid) |
 | Sad & Beautiful Piano BGM | emotional piano | E minor | 64 | [YouTube](https://youtube.com/shorts/F-DQot1bBA8) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/sad--beautiful-piano-bgm-e-minor-64bpm-F-DQot1bBA8.mid) |
 | Longing Piano BGM | emotional piano | G major | 58 | [YouTube](https://youtube.com/shorts/yx-lDb5u6XI) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/longing-piano-bgm-g-major-58bpm-yx-lDb5u6XI.mid) |
 | Mellow Jazz Piano BGM | longform emotional |   |  | [YouTube](https://youtube.com/shorts/OkZiET-b58U) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/mellow-jazz-piano-bgm---bpm-OkZiET-b58U.mid) |
