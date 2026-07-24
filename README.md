@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 7월 (95곡)</summary>
+<summary>📅 2026년 7월 (96곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Reflective Piano Music | emotional piano | A major | 58 | [YouTube](https://youtube.com/shorts/aAJxavB8_0w) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/reflective-piano-music-a-major-58bpm-aAJxavB8_0w.mid) |
 | Reflective Piano Music | emotional piano | E major | 60 | [YouTube](https://youtube.com/shorts/sBw7sP-UAvA) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/reflective-piano-music-e-major-60bpm-sBw7sP-UAvA.mid) |
 | Bossa Nova Cafe Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/HQJ9bnFJMQw) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/bossa-nova-cafe-piano---bpm-HQJ9bnFJMQw.mid) |
 | Evening Cafe Jazz | cafe jazz | E minor | 85 | [YouTube](https://youtube.com/shorts/ZNmQ1DfVsaE) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/evening-cafe-jazz-e-minor-85bpm-ZNmQ1DfVsaE.mid) |
