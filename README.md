@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 7월 (99곡)</summary>
+<summary>📅 2026년 7월 (100곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Tender Piano BGM | emotional piano | C major | 58 | [YouTube](https://youtube.com/shorts/6jyURpzOHfE) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/tender-piano-bgm-c-major-58bpm-6jyURpzOHfE.mid) |
 | Ethereal Piano Melody | emotional piano | G minor | 62 | [YouTube](https://youtube.com/shorts/rBmSUjrmKuE) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/ethereal-piano-melody-g-minor-62bpm-rBmSUjrmKuE.mid) |
 | Bossa Nova Cafe Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/sLDCFoyRJPw) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/bossa-nova-cafe-piano---bpm-sLDCFoyRJPw.mid) |
 | Coffee & Jazz Piano | cafe jazz | B minor | 80 | [YouTube](https://youtube.com/shorts/6wD4VJnOR8s) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/coffee--jazz-piano-b-minor-80bpm-6wD4VJnOR8s.mid) |
