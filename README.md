@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 7월 (105곡)</summary>
+<summary>📅 2026년 7월 (106곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Slow Jazz Piano for Reading | longform emotional |   |  | [YouTube](https://youtube.com/shorts/J0wr_QPUTEE) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/slow-jazz-piano-for-reading---bpm-J0wr_QPUTEE.mid) |
 | Bossa Nova Cafe Piano | cafe jazz | G minor | 94 | [YouTube](https://youtube.com/shorts/Lvr5z4ZWOT0) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/bossa-nova-cafe-piano-g-minor-94bpm-Lvr5z4ZWOT0.mid) |
 | Sad & Beautiful Piano BGM | emotional piano | F# minor | 70 | [YouTube](https://youtube.com/shorts/gRNdygH2Pio) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/sad--beautiful-piano-bgm-f#-minor-70bpm-gRNdygH2Pio.mid) |
 | Emotional Piano BGM | emotional piano | E major | 60 | [YouTube](https://youtube.com/shorts/eU7pSOq8skg) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/emotional-piano-bgm-e-major-60bpm-eU7pSOq8skg.mid) |
