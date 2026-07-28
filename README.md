@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 7월 (110곡)</summary>
+<summary>📅 2026년 7월 (111곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Melancholic Piano BGM | emotional piano | G minor | 70 | [YouTube](https://youtube.com/shorts/fOQy0UmtR0w) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/melancholic-piano-bgm-g-minor-70bpm-fOQy0UmtR0w.mid) |
 | Coffee & Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/ygD2N5fve9A) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/coffee--jazz-piano---bpm-ygD2N5fve9A.mid) |
 | Smooth Jazz Piano Cafe | cafe jazz | E minor | 90 | [YouTube](https://youtube.com/shorts/n2_vzPoGO7o) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/smooth-jazz-piano-cafe-e-minor-90bpm-n2_vzPoGO7o.mid) |
 | Reflective Piano Music | emotional piano | G major | 62 | [YouTube](https://youtube.com/shorts/xAx3GRioCHQ) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/reflective-piano-music-g-major-62bpm-xAx3GRioCHQ.mid) |
