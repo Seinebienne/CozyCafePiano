@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 7월 (112곡)</summary>
+<summary>📅 2026년 7월 (113곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Midnight Jazz Piano | cafe jazz | G minor | 75 | [YouTube](https://youtube.com/shorts/FPzn1jd7Q-E) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/midnight-jazz-piano-g-minor-75bpm-FPzn1jd7Q-E.mid) |
 | Midnight Piano BGM | emotional piano | G minor | 67 | [YouTube](https://youtube.com/shorts/hBXZyzjRsLk) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/midnight-piano-bgm-g-minor-67bpm-hBXZyzjRsLk.mid) |
 | Melancholic Piano BGM | emotional piano | G minor | 70 | [YouTube](https://youtube.com/shorts/fOQy0UmtR0w) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/melancholic-piano-bgm-g-minor-70bpm-fOQy0UmtR0w.mid) |
 | Coffee & Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/ygD2N5fve9A) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/coffee--jazz-piano---bpm-ygD2N5fve9A.mid) |
