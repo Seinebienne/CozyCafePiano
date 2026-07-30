@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 7월 (116곡)</summary>
+<summary>📅 2026년 7월 (117곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Chill Jazz Piano BGM | cafe jazz | B minor | 92 | [YouTube](https://youtube.com/shorts/AR81QfDq_os) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/chill-jazz-piano-bgm-b-minor-92bpm-AR81QfDq_os.mid) |
 | Dreamy Piano BGM | emotional piano | F major | 64 | [YouTube](https://youtube.com/shorts/b3hS2XQWJxM) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/dreamy-piano-bgm-f-major-64bpm-b3hS2XQWJxM.mid) |
 | Midnight Piano BGM | emotional piano | E major | 67 | [YouTube](https://youtube.com/shorts/GTFXBhyZfXs) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/midnight-piano-bgm-e-major-67bpm-GTFXBhyZfXs.mid) |
 | Smooth Jazz Piano Cafe | longform emotional |   |  | [YouTube](https://youtube.com/shorts/ZyHMFoiHeq8) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/smooth-jazz-piano-cafe---bpm-ZyHMFoiHeq8.mid) |
