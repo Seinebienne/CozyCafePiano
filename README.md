@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 7월 (123곡)</summary>
+<summary>📅 2026년 7월 (124곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Tender Piano BGM | emotional piano | C major | 58 | [YouTube](https://youtube.com/shorts/tIj0nNffwrU) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/tender-piano-bgm-c-major-58bpm-tIj0nNffwrU.mid) |
 | Dreamy Piano BGM | emotional piano | A major | 71 | [YouTube](https://youtube.com/shorts/3KXeSvWM97U) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/dreamy-piano-bgm-a-major-71bpm-3KXeSvWM97U.mid) |
 | Gentle Swing Piano BGM | longform emotional |   |  | [YouTube](https://youtube.com/shorts/F_s1_dIBgEQ) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/gentle-swing-piano-bgm---bpm-F_s1_dIBgEQ.mid) |
 | Jazz Piano at the Window | cafe jazz | F# minor | 94 | [YouTube](https://youtube.com/shorts/F39KVo4Gdoc) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/jazz-piano-at-the-window-f#-minor-94bpm-F39KVo4Gdoc.mid) |
