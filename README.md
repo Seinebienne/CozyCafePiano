@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 8월 (1곡)</summary>
+<summary>📅 2026년 8월 (2곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Candlelight Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/IlPqkIAHMdU) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/candlelight-jazz-piano---bpm-IlPqkIAHMdU.mid) |
 | Coffee & Jazz Piano | cafe jazz | B minor | 90 | [YouTube](https://youtube.com/shorts/Lre_-LYhL4c) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/coffee--jazz-piano-b-minor-90bpm-Lre_-LYhL4c.mid) |
 
 </details>
