@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 8월 (3곡)</summary>
+<summary>📅 2026년 8월 (4곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Longing Piano BGM | emotional piano | E minor | 78 | [YouTube](https://youtube.com/shorts/qreLK1lkH10) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/longing-piano-bgm-e-minor-78bpm-qreLK1lkH10.mid) |
 | Ethereal Piano Melody | emotional piano | F# minor | 61 | [YouTube](https://youtube.com/shorts/1iYdU6FqT4E) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/ethereal-piano-melody-f#-minor-61bpm-1iYdU6FqT4E.mid) |
 | Candlelight Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/IlPqkIAHMdU) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/candlelight-jazz-piano---bpm-IlPqkIAHMdU.mid) |
 | Coffee & Jazz Piano | cafe jazz | B minor | 90 | [YouTube](https://youtube.com/shorts/Lre_-LYhL4c) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/coffee--jazz-piano-b-minor-90bpm-Lre_-LYhL4c.mid) |
