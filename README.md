@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 8월 (6곡)</summary>
+<summary>📅 2026년 8월 (7곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Longing Piano BGM | emotional piano | C minor | 60 | [YouTube](https://youtube.com/shorts/Luh9wS4sVxc) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/longing-piano-bgm-c-minor-60bpm-Luh9wS4sVxc.mid) |
 | Cozy Coffee Shop Jazz Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/aThGgCqV7Do) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/cozy-coffee-shop-jazz-piano---bpm-aThGgCqV7Do.mid) |
 | Cloudy Day Cafe Jazz | cafe jazz | A minor | 78 | [YouTube](https://youtube.com/shorts/PF0-OV-TKzo) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/cloudy-day-cafe-jazz-a-minor-78bpm-PF0-OV-TKzo.mid) |
 | Longing Piano BGM | emotional piano | E minor | 78 | [YouTube](https://youtube.com/shorts/qreLK1lkH10) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/longing-piano-bgm-e-minor-78bpm-qreLK1lkH10.mid) |
