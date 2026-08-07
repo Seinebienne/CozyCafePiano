@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 8월 (25곡)</summary>
+<summary>📅 2026년 8월 (26곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Soft Swing Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/XWzHk0K3Z5s) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/soft-swing-piano---bpm-XWzHk0K3Z5s.mid) |
 | Cool Jazz Piano BGM | cafe jazz | D minor | 77 | [YouTube](https://youtube.com/shorts/BGFvzoRJuv4) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/cool-jazz-piano-bgm-d-minor-77bpm-BGFvzoRJuv4.mid) |
 | Calm Piano for Studying | emotional piano | E major | 59 | [YouTube](https://youtube.com/shorts/7RYzsgbLZ-k) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/calm-piano-for-studying-e-major-59bpm-7RYzsgbLZ-k.mid) |
 | Quiet Rainy Day Piano | emotional piano | G major | 61 | [YouTube](https://youtube.com/shorts/jg2okNzEMAU) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/quiet-rainy-day-piano-g-major-61bpm-jg2okNzEMAU.mid) |
