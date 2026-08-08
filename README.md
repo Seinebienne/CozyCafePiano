@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 8월 (31곡)</summary>
+<summary>📅 2026년 8월 (32곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Calm Piano for Studying | emotional piano | A minor | 62 | [YouTube](https://youtube.com/shorts/Gkx7_Ia4hlU) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/calm-piano-for-studying-a-minor-62bpm-Gkx7_Ia4hlU.mid) |
 | Heartfelt Piano BGM | emotional piano | E minor | 64 | [YouTube](https://youtube.com/shorts/xuTddT09EHQ) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/heartfelt-piano-bgm-e-minor-64bpm-xuTddT09EHQ.mid) |
 | Evening Cafe Jazz | longform emotional |   |  | [YouTube](https://youtube.com/shorts/NkCTHHvC1Yo) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/evening-cafe-jazz---bpm-NkCTHHvC1Yo.mid) |
 | Morning Coffee Jazz Piano | cafe jazz | G minor | 89 | [YouTube](https://youtube.com/shorts/W_IKocupG9A) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/morning-coffee-jazz-piano-g-minor-89bpm-W_IKocupG9A.mid) |
