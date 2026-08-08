@@ -10,10 +10,11 @@ Algorithmically composed piano BGM. Free to use with attribution.
 ## Tracks
 
 <details>
-<summary>📅 2026년 8월 (28곡)</summary>
+<summary>📅 2026년 8월 (29곡)</summary>
 
 | Title | Genre | Key | BPM | YouTube | MIDI |
 |-------|-------|-----|-----|---------|------|
+| Morning Coffee Jazz Piano | cafe jazz | G minor | 89 | [YouTube](https://youtube.com/shorts/W_IKocupG9A) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/morning-coffee-jazz-piano-g-minor-89bpm-W_IKocupG9A.mid) |
 | Soft Piano BGM | emotional piano | E minor | 63 | [YouTube](https://youtube.com/shorts/S4vs_f-iYu8) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/soft-piano-bgm-e-minor-63bpm-S4vs_f-iYu8.mid) |
 | Dreamy Piano BGM | emotional piano | C major | 65 | [YouTube](https://youtube.com/shorts/LicQUq1p_9I) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/dreamy-piano-bgm-c-major-65bpm-LicQUq1p_9I.mid) |
 | Soft Swing Piano | longform emotional |   |  | [YouTube](https://youtube.com/shorts/XWzHk0K3Z5s) | [Download](https://github.com/Seinebienne/CozyCafePiano/raw/main/midi/soft-swing-piano---bpm-XWzHk0K3Z5s.mid) |
